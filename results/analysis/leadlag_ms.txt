@@ -1,0 +1,186 @@
+
+=========== BTC: 106 days ===========
+Binance >=  5 bp within  100 ms, 2021-23: 20522 events
+   hold  1s gross capture (bp) by latency:    0ms  +4.3 |   50ms  +4.1 |  100ms  +3.4 |  200ms  +2.0 |  300ms  +1.3 |  500ms  +0.8 | 1000ms  +0.3
+   hold  5s gross capture (bp) by latency:    0ms  +4.6 |   50ms  +4.4 |  100ms  +3.7 |  200ms  +2.2 |  300ms  +1.5 |  500ms  +0.9 | 1000ms  +0.3
+   hold 30s gross capture (bp) by latency:    0ms  +4.6 |   50ms  +4.3 |  100ms  +3.6 |  200ms  +2.1 |  300ms  +1.5 |  500ms  +0.8 | 1000ms  +0.2
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.2 | 100ms  +0.9 | 200ms  +2.4 | 300ms  +3.1 | 500ms  +3.7 | 1000ms  +4.3
+Binance >=  5 bp within  100 ms, 2024-26:  6417 events
+   hold  1s gross capture (bp) by latency:    0ms  +4.6 |   50ms  +4.3 |  100ms  +3.1 |  200ms  +2.1 |  300ms  +1.6 |  500ms  +1.0 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms  +5.3 |   50ms  +5.0 |  100ms  +3.7 |  200ms  +2.7 |  300ms  +2.1 |  500ms  +1.4 | 1000ms  +0.7
+   hold 30s gross capture (bp) by latency:    0ms  +5.4 |   50ms  +5.1 |  100ms  +3.8 |  200ms  +2.7 |  300ms  +2.2 |  500ms  +1.5 | 1000ms  +0.7
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +1.6 | 200ms  +2.7 | 300ms  +3.2 | 500ms  +3.9 | 1000ms  +4.6
+Binance >= 10 bp within  100 ms, 2021-23:  3780 events
+   hold  1s gross capture (bp) by latency:    0ms  +7.9 |   50ms  +7.8 |  100ms  +6.9 |  200ms  +4.3 |  300ms  +2.9 |  500ms  +1.5 | 1000ms  +0.3
+   hold  5s gross capture (bp) by latency:    0ms  +8.2 |   50ms  +8.1 |  100ms  +7.2 |  200ms  +4.5 |  300ms  +3.2 |  500ms  +1.6 | 1000ms  +0.2
+   hold 30s gross capture (bp) by latency:    0ms  +7.3 |   50ms  +7.2 |  100ms  +6.2 |  200ms  +3.6 |  300ms  +2.3 |  500ms  +0.7 | 1000ms  -0.7
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.1 | 100ms  +1.1 | 200ms  +3.7 | 300ms  +5.0 | 500ms  +6.6 | 1000ms  +7.9
+Binance >= 10 bp within  100 ms, 2024-26:  1109 events
+   hold  1s gross capture (bp) by latency:    0ms  +7.9 |   50ms  +7.7 |  100ms  +5.8 |  200ms  +4.2 |  300ms  +3.3 |  500ms  +2.0 | 1000ms  +1.0
+   hold  5s gross capture (bp) by latency:    0ms  +9.2 |   50ms  +8.9 |  100ms  +6.8 |  200ms  +5.1 |  300ms  +4.0 |  500ms  +2.5 | 1000ms  +1.2
+   hold 30s gross capture (bp) by latency:    0ms  +9.9 |   50ms  +9.6 |  100ms  +7.6 |  200ms  +5.9 |  300ms  +4.8 |  500ms  +3.4 | 1000ms  +2.1
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +2.3 | 200ms  +4.0 | 300ms  +5.1 | 500ms  +6.6 | 1000ms  +7.9
+Binance >= 20 bp within  100 ms, 2021-23:   677 events
+   hold  1s gross capture (bp) by latency:    0ms +11.7 |   50ms +11.7 |  100ms +10.7 |  200ms  +7.1 |  300ms  +4.9 |  500ms  +2.7 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms +12.0 |   50ms +11.7 |  100ms +10.8 |  200ms  +7.1 |  300ms  +4.7 |  500ms  +2.1 | 1000ms  -0.2
+   hold 30s gross capture (bp) by latency:    0ms +13.7 |   50ms +13.6 |  100ms +12.7 |  200ms  +9.1 |  300ms  +6.6 |  500ms  +4.4 | 1000ms  +2.3
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.2 | 100ms  +1.2 | 200ms  +4.8 | 300ms  +7.2 | 500ms  +9.6 | 1000ms +11.7
+Binance >= 20 bp within  100 ms, 2024-26:   166 events
+   hold  1s gross capture (bp) by latency:    0ms +12.1 |   50ms +12.0 |  100ms  +9.6 |  200ms  +7.4 |  300ms  +6.1 |  500ms  +4.0 | 1000ms  +1.6
+   hold  5s gross capture (bp) by latency:    0ms +13.7 |   50ms +14.0 |  100ms +11.7 |  200ms  +9.2 |  300ms  +7.4 |  500ms  +4.7 | 1000ms  +0.8
+   hold 30s gross capture (bp) by latency:    0ms  +9.2 |   50ms  +8.7 |  100ms  +6.5 |  200ms  +4.0 |  300ms  +2.4 |  500ms  -0.2 | 1000ms  -3.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.2 | 100ms  +2.3 | 200ms  +4.8 | 300ms  +6.4 | 500ms  +9.1 | 1000ms +12.1
+Binance >=  5 bp within  500 ms, 2021-23: 37917 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.3 |   50ms  +3.0 |  100ms  +2.5 |  200ms  +1.7 |  300ms  +1.2 |  500ms  +0.8 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +4.0 |   50ms  +3.7 |  100ms  +3.2 |  200ms  +2.2 |  300ms  +1.8 |  500ms  +1.2 | 1000ms  +0.7
+   hold 30s gross capture (bp) by latency:    0ms  +3.8 |   50ms  +3.5 |  100ms  +3.0 |  200ms  +2.0 |  300ms  +1.6 |  500ms  +1.1 | 1000ms  +0.5
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +0.8 | 200ms  +1.8 | 300ms  +2.2 | 500ms  +2.8 | 1000ms  +3.3
+Binance >=  5 bp within  500 ms, 2024-26: 12003 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.7 |   50ms  +3.4 |  100ms  +2.5 |  200ms  +1.8 |  300ms  +1.4 |  500ms  +0.9 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +4.5 |   50ms  +4.1 |  100ms  +3.2 |  200ms  +2.4 |  300ms  +2.0 |  500ms  +1.4 | 1000ms  +0.8
+   hold 30s gross capture (bp) by latency:    0ms  +4.7 |   50ms  +4.3 |  100ms  +3.4 |  200ms  +2.6 |  300ms  +2.1 |  500ms  +1.6 | 1000ms  +0.9
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +1.3 | 200ms  +2.1 | 300ms  +2.5 | 500ms  +3.1 | 1000ms  +3.7
+Binance >= 10 bp within  500 ms, 2021-23:  6564 events
+   hold  1s gross capture (bp) by latency:    0ms  +6.4 |   50ms  +6.0 |  100ms  +5.2 |  200ms  +3.3 |  300ms  +2.4 |  500ms  +1.4 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +7.0 |   50ms  +6.5 |  100ms  +5.6 |  200ms  +3.7 |  300ms  +2.7 |  500ms  +1.5 | 1000ms  +0.5
+   hold 30s gross capture (bp) by latency:    0ms  +6.3 |   50ms  +5.8 |  100ms  +4.9 |  200ms  +3.0 |  300ms  +2.0 |  500ms  +0.8 | 1000ms  -0.2
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.5 | 100ms  +1.4 | 200ms  +3.3 | 300ms  +4.3 | 500ms  +5.5 | 1000ms  +6.4
+Binance >= 10 bp within  500 ms, 2024-26:  1690 events
+   hold  1s gross capture (bp) by latency:    0ms  +7.1 |   50ms  +6.6 |  100ms  +5.0 |  200ms  +3.7 |  300ms  +2.8 |  500ms  +1.8 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +7.8 |   50ms  +7.3 |  100ms  +5.7 |  200ms  +4.2 |  300ms  +3.3 |  500ms  +2.1 | 1000ms  +0.6
+   hold 30s gross capture (bp) by latency:    0ms  +8.1 |   50ms  +7.7 |  100ms  +6.0 |  200ms  +4.6 |  300ms  +3.7 |  500ms  +2.5 | 1000ms  +1.1
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.5 | 100ms  +2.1 | 200ms  +3.5 | 300ms  +4.5 | 500ms  +5.7 | 1000ms  +7.1
+Binance >= 20 bp within  500 ms, 2021-23:  1004 events
+   hold  1s gross capture (bp) by latency:    0ms +11.3 |   50ms +10.7 |  100ms  +9.3 |  200ms  +6.4 |  300ms  +4.6 |  500ms  +2.6 | 1000ms  +0.8
+   hold  5s gross capture (bp) by latency:    0ms +12.5 |   50ms +12.1 |  100ms +10.8 |  200ms  +7.6 |  300ms  +5.7 |  500ms  +3.5 | 1000ms  +1.2
+   hold 30s gross capture (bp) by latency:    0ms +13.3 |   50ms +12.9 |  100ms +11.5 |  200ms  +8.4 |  300ms  +6.4 |  500ms  +4.2 | 1000ms  +2.0
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.5 | 100ms  +1.8 | 200ms  +5.0 | 300ms  +6.9 | 500ms  +9.0 | 1000ms +11.3
+Binance >= 20 bp within  500 ms, 2024-26:   230 events
+   hold  1s gross capture (bp) by latency:    0ms +11.8 |   50ms +11.4 |  100ms  +9.1 |  200ms  +7.0 |  300ms  +6.1 |  500ms  +4.1 | 1000ms  +1.7
+   hold  5s gross capture (bp) by latency:    0ms +13.0 |   50ms +12.6 |  100ms +10.4 |  200ms  +8.1 |  300ms  +6.6 |  500ms  +4.2 | 1000ms  +0.5
+   hold 30s gross capture (bp) by latency:    0ms +13.4 |   50ms +12.7 |  100ms +10.7 |  200ms  +8.4 |  300ms  +7.0 |  500ms  +4.8 | 1000ms  +1.6
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.6 | 100ms  +2.6 | 200ms  +4.8 | 300ms  +6.4 | 500ms  +8.7 | 1000ms +11.8
+Binance >=  5 bp within 1000 ms, 2021-23: 52157 events
+   hold  1s gross capture (bp) by latency:    0ms  +2.7 |   50ms  +2.5 |  100ms  +2.1 |  200ms  +1.5 |  300ms  +1.2 |  500ms  +0.9 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +3.6 |   50ms  +3.4 |  100ms  +2.9 |  200ms  +2.2 |  300ms  +1.9 |  500ms  +1.4 | 1000ms  +0.9
+   hold 30s gross capture (bp) by latency:    0ms  +3.4 |   50ms  +3.2 |  100ms  +2.8 |  200ms  +2.1 |  300ms  +1.7 |  500ms  +1.3 | 1000ms  +0.7
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.2 | 100ms  +0.7 | 200ms  +1.4 | 300ms  +1.7 | 500ms  +2.2 | 1000ms  +2.7
+Binance >=  5 bp within 1000 ms, 2024-26: 18497 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.1 |   50ms  +2.8 |  100ms  +2.2 |  200ms  +1.6 |  300ms  +1.3 |  500ms  +0.9 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +3.9 |   50ms  +3.7 |  100ms  +3.0 |  200ms  +2.4 |  300ms  +2.0 |  500ms  +1.5 | 1000ms  +0.9
+   hold 30s gross capture (bp) by latency:    0ms  +4.2 |   50ms  +3.9 |  100ms  +3.2 |  200ms  +2.6 |  300ms  +2.2 |  500ms  +1.7 | 1000ms  +1.1
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +1.0 | 200ms  +1.6 | 300ms  +2.0 | 500ms  +2.5 | 1000ms  +3.1
+Binance >= 10 bp within 1000 ms, 2021-23:  9540 events
+   hold  1s gross capture (bp) by latency:    0ms  +5.2 |   50ms  +4.8 |  100ms  +4.1 |  200ms  +2.8 |  300ms  +2.1 |  500ms  +1.3 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +6.0 |   50ms  +5.6 |  100ms  +4.8 |  200ms  +3.4 |  300ms  +2.6 |  500ms  +1.7 | 1000ms  +0.7
+   hold 30s gross capture (bp) by latency:    0ms  +5.2 |   50ms  +4.8 |  100ms  +4.1 |  200ms  +2.6 |  300ms  +1.9 |  500ms  +0.9 | 1000ms  -0.0
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.4 | 100ms  +1.1 | 200ms  +2.6 | 300ms  +3.4 | 500ms  +4.3 | 1000ms  +5.2
+Binance >= 10 bp within 1000 ms, 2024-26:  2383 events
+   hold  1s gross capture (bp) by latency:    0ms  +5.6 |   50ms  +5.3 |  100ms  +4.0 |  200ms  +3.0 |  300ms  +2.3 |  500ms  +1.5 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +6.4 |   50ms  +6.0 |  100ms  +4.6 |  200ms  +3.6 |  300ms  +2.8 |  500ms  +1.8 | 1000ms  +0.8
+   hold 30s gross capture (bp) by latency:    0ms  +6.0 |   50ms  +5.5 |  100ms  +4.2 |  200ms  +3.2 |  300ms  +2.4 |  500ms  +1.5 | 1000ms  +0.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.4 | 100ms  +1.7 | 200ms  +2.8 | 300ms  +3.5 | 500ms  +4.5 | 1000ms  +5.6
+Binance >= 20 bp within 1000 ms, 2021-23:  1488 events
+   hold  1s gross capture (bp) by latency:    0ms  +8.8 |   50ms  +8.3 |  100ms  +7.3 |  200ms  +5.0 |  300ms  +3.9 |  500ms  +2.2 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms +10.0 |   50ms  +9.4 |  100ms  +8.3 |  200ms  +5.9 |  300ms  +4.7 |  500ms  +2.9 | 1000ms  +1.0
+   hold 30s gross capture (bp) by latency:    0ms  +8.7 |   50ms  +8.2 |  100ms  +7.1 |  200ms  +4.7 |  300ms  +3.4 |  500ms  +1.7 | 1000ms  -0.0
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.6 | 100ms  +1.6 | 200ms  +3.9 | 300ms  +5.2 | 500ms  +6.9 | 1000ms  +8.8
+Binance >= 20 bp within 1000 ms, 2024-26:   308 events
+   hold  1s gross capture (bp) by latency:    0ms +10.0 |   50ms  +9.3 |  100ms  +7.8 |  200ms  +5.8 |  300ms  +5.1 |  500ms  +3.5 | 1000ms  +1.9
+   hold  5s gross capture (bp) by latency:    0ms +12.0 |   50ms +11.3 |  100ms  +9.7 |  200ms  +7.6 |  300ms  +6.7 |  500ms  +4.5 | 1000ms  +1.6
+   hold 30s gross capture (bp) by latency:    0ms +12.3 |   50ms +11.6 |  100ms +10.2 |  200ms  +8.1 |  300ms  +7.1 |  500ms  +5.1 | 1000ms  +2.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.7 | 100ms  +2.2 | 200ms  +4.4 | 300ms  +5.5 | 500ms  +7.6 | 1000ms +10.0
+costs: standard taker in+out ~10 bp; a 2 bp round trip needs top-tier/maker-rebate fees
+
+=========== ETH: 106 days ===========
+Binance >=  5 bp within  100 ms, 2021-23: 30696 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.9 |   50ms  +3.6 |  100ms  +2.8 |  200ms  +1.6 |  300ms  +1.2 |  500ms  +0.8 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms  +4.5 |   50ms  +4.1 |  100ms  +3.3 |  200ms  +2.1 |  300ms  +1.6 |  500ms  +1.1 | 1000ms  +0.6
+   hold 30s gross capture (bp) by latency:    0ms  +4.3 |   50ms  +4.0 |  100ms  +3.2 |  200ms  +1.9 |  300ms  +1.4 |  500ms  +0.9 | 1000ms  +0.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +1.2 | 200ms  +2.4 | 300ms  +2.9 | 500ms  +3.4 | 1000ms  +3.9
+Binance >=  5 bp within  100 ms, 2024-26: 13287 events
+   hold  1s gross capture (bp) by latency:    0ms  +5.1 |   50ms  +4.7 |  100ms  +2.5 |  200ms  +1.5 |  300ms  +1.1 |  500ms  +0.7 | 1000ms  +0.3
+   hold  5s gross capture (bp) by latency:    0ms  +5.7 |   50ms  +5.2 |  100ms  +3.0 |  200ms  +2.0 |  300ms  +1.5 |  500ms  +1.0 | 1000ms  +0.6
+   hold 30s gross capture (bp) by latency:    0ms  +5.7 |   50ms  +5.2 |  100ms  +2.9 |  200ms  +1.9 |  300ms  +1.4 |  500ms  +0.9 | 1000ms  +0.5
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.5 | 100ms  +2.7 | 200ms  +3.7 | 300ms  +4.2 | 500ms  +4.7 | 1000ms  +5.1
+Binance >= 10 bp within  100 ms, 2021-23:  4938 events
+   hold  1s gross capture (bp) by latency:    0ms  +7.6 |   50ms  +7.2 |  100ms  +5.9 |  200ms  +3.5 |  300ms  +2.4 |  500ms  +1.3 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms  +7.9 |   50ms  +7.5 |  100ms  +6.1 |  200ms  +3.6 |  300ms  +2.5 |  500ms  +1.4 | 1000ms  +0.4
+   hold 30s gross capture (bp) by latency:    0ms  +7.9 |   50ms  +7.6 |  100ms  +6.2 |  200ms  +3.6 |  300ms  +2.5 |  500ms  +1.3 | 1000ms  +0.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.4 | 100ms  +1.8 | 200ms  +4.3 | 300ms  +5.4 | 500ms  +6.6 | 1000ms  +7.6
+Binance >= 10 bp within  100 ms, 2024-26:  2557 events
+   hold  1s gross capture (bp) by latency:    0ms  +9.4 |   50ms  +8.9 |  100ms  +4.8 |  200ms  +3.1 |  300ms  +2.1 |  500ms  +1.0 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms  +9.9 |   50ms  +9.3 |  100ms  +5.2 |  200ms  +3.4 |  300ms  +2.3 |  500ms  +1.1 | 1000ms  +0.3
+   hold 30s gross capture (bp) by latency:    0ms +10.0 |   50ms  +9.3 |  100ms  +5.2 |  200ms  +3.4 |  300ms  +2.3 |  500ms  +1.2 | 1000ms  +0.4
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.6 | 100ms  +4.7 | 200ms  +6.5 | 300ms  +7.6 | 500ms  +8.7 | 1000ms  +9.4
+Binance >= 20 bp within  100 ms, 2021-23:   706 events
+   hold  1s gross capture (bp) by latency:    0ms +11.7 |   50ms +11.5 |  100ms  +9.4 |  200ms  +6.5 |  300ms  +5.0 |  500ms  +3.3 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms +13.1 |   50ms +12.9 |  100ms +10.7 |  200ms  +7.4 |  300ms  +5.8 |  500ms  +3.8 | 1000ms  +0.8
+   hold 30s gross capture (bp) by latency:    0ms +13.2 |   50ms +13.2 |  100ms +10.9 |  200ms  +7.8 |  300ms  +6.1 |  500ms  +4.2 | 1000ms  +1.1
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.1 | 100ms  +2.3 | 200ms  +5.5 | 300ms  +7.1 | 500ms  +9.1 | 1000ms +11.7
+Binance >= 20 bp within  100 ms, 2024-26:   361 events
+   hold  1s gross capture (bp) by latency:    0ms +17.9 |   50ms +17.1 |  100ms +11.2 |  200ms  +8.1 |  300ms  +5.7 |  500ms  +2.7 | 1000ms  +0.3
+   hold  5s gross capture (bp) by latency:    0ms +18.1 |   50ms +17.4 |  100ms +11.3 |  200ms  +7.7 |  300ms  +4.9 |  500ms  +1.5 | 1000ms  -0.7
+   hold 30s gross capture (bp) by latency:    0ms +16.8 |   50ms +16.1 |  100ms +10.1 |  200ms  +6.8 |  300ms  +4.2 |  500ms  +1.0 | 1000ms  -1.0
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.8 | 100ms  +6.8 | 200ms +10.0 | 300ms +12.7 | 500ms +15.9 | 1000ms +17.9
+Binance >=  5 bp within  500 ms, 2021-23: 59891 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.0 |   50ms  +2.7 |  100ms  +2.2 |  200ms  +1.5 |  300ms  +1.2 |  500ms  +0.9 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +3.9 |   50ms  +3.5 |  100ms  +3.0 |  200ms  +2.2 |  300ms  +1.8 |  500ms  +1.4 | 1000ms  +0.9
+   hold 30s gross capture (bp) by latency:    0ms  +3.8 |   50ms  +3.5 |  100ms  +2.9 |  200ms  +2.1 |  300ms  +1.8 |  500ms  +1.4 | 1000ms  +0.8
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +0.9 | 200ms  +1.7 | 300ms  +2.1 | 500ms  +2.5 | 1000ms  +3.0
+Binance >=  5 bp within  500 ms, 2024-26: 25706 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.9 |   50ms  +3.5 |  100ms  +2.2 |  200ms  +1.5 |  300ms  +1.2 |  500ms  +0.9 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +4.7 |   50ms  +4.3 |  100ms  +3.0 |  200ms  +2.3 |  300ms  +1.9 |  500ms  +1.4 | 1000ms  +0.9
+   hold 30s gross capture (bp) by latency:    0ms  +4.8 |   50ms  +4.4 |  100ms  +3.1 |  200ms  +2.4 |  300ms  +2.0 |  500ms  +1.5 | 1000ms  +1.0
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.4 | 100ms  +1.8 | 200ms  +2.5 | 300ms  +2.9 | 500ms  +3.3 | 1000ms  +3.9
+Binance >= 10 bp within  500 ms, 2021-23: 10645 events
+   hold  1s gross capture (bp) by latency:    0ms  +5.7 |   50ms  +5.1 |  100ms  +4.2 |  200ms  +2.7 |  300ms  +2.0 |  500ms  +1.3 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +6.4 |   50ms  +5.7 |  100ms  +4.8 |  200ms  +3.2 |  300ms  +2.4 |  500ms  +1.6 | 1000ms  +0.6
+   hold 30s gross capture (bp) by latency:    0ms  +6.5 |   50ms  +5.8 |  100ms  +4.9 |  200ms  +3.2 |  300ms  +2.5 |  500ms  +1.6 | 1000ms  +0.7
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.6 | 100ms  +1.6 | 200ms  +3.2 | 300ms  +4.0 | 500ms  +4.8 | 1000ms  +5.7
+Binance >= 10 bp within  500 ms, 2024-26:  4050 events
+   hold  1s gross capture (bp) by latency:    0ms  +7.6 |   50ms  +6.9 |  100ms  +4.0 |  200ms  +2.6 |  300ms  +1.8 |  500ms  +0.9 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms  +8.0 |   50ms  +7.3 |  100ms  +4.3 |  200ms  +2.9 |  300ms  +2.0 |  500ms  +1.0 | 1000ms  +0.4
+   hold 30s gross capture (bp) by latency:    0ms  +7.7 |   50ms  +7.0 |  100ms  +4.1 |  200ms  +2.6 |  300ms  +1.7 |  500ms  +0.7 | 1000ms  +0.1
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.7 | 100ms  +3.7 | 200ms  +5.1 | 300ms  +6.0 | 500ms  +7.0 | 1000ms  +7.6
+Binance >= 20 bp within  500 ms, 2021-23:  1446 events
+   hold  1s gross capture (bp) by latency:    0ms +10.4 |   50ms  +9.6 |  100ms  +8.2 |  200ms  +5.9 |  300ms  +4.4 |  500ms  +2.6 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms +10.9 |   50ms  +9.9 |  100ms  +8.5 |  200ms  +5.6 |  300ms  +4.0 |  500ms  +2.0 | 1000ms  +0.1
+   hold 30s gross capture (bp) by latency:    0ms +12.4 |   50ms +11.5 |  100ms +10.0 |  200ms  +7.3 |  300ms  +5.5 |  500ms  +3.6 | 1000ms  +1.7
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.9 | 100ms  +2.3 | 200ms  +4.9 | 300ms  +6.5 | 500ms  +8.5 | 1000ms +10.4
+Binance >= 20 bp within  500 ms, 2024-26:   540 events
+   hold  1s gross capture (bp) by latency:    0ms +14.4 |   50ms +13.2 |  100ms  +8.8 |  200ms  +6.5 |  300ms  +4.5 |  500ms  +2.5 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms +14.8 |   50ms +13.7 |  100ms  +9.1 |  200ms  +6.3 |  300ms  +4.0 |  500ms  +1.6 | 1000ms  +0.1
+   hold 30s gross capture (bp) by latency:    0ms +13.0 |   50ms +11.9 |  100ms  +7.4 |  200ms  +4.9 |  300ms  +2.6 |  500ms  +0.3 | 1000ms  -1.2
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +1.2 | 100ms  +5.8 | 200ms  +8.3 | 300ms +10.5 | 500ms +12.9 | 1000ms +14.4
+Binance >=  5 bp within 1000 ms, 2021-23: 82074 events
+   hold  1s gross capture (bp) by latency:    0ms  +2.6 |   50ms  +2.3 |  100ms  +1.9 |  200ms  +1.4 |  300ms  +1.1 |  500ms  +0.9 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +3.6 |   50ms  +3.3 |  100ms  +2.8 |  200ms  +2.2 |  300ms  +1.9 |  500ms  +1.6 | 1000ms  +1.1
+   hold 30s gross capture (bp) by latency:    0ms  +3.7 |   50ms  +3.5 |  100ms  +3.0 |  200ms  +2.4 |  300ms  +2.1 |  500ms  +1.7 | 1000ms  +1.2
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +0.7 | 200ms  +1.4 | 300ms  +1.7 | 500ms  +2.0 | 1000ms  +2.6
+Binance >=  5 bp within 1000 ms, 2024-26: 39348 events
+   hold  1s gross capture (bp) by latency:    0ms  +3.1 |   50ms  +2.8 |  100ms  +1.9 |  200ms  +1.4 |  300ms  +1.2 |  500ms  +0.9 | 1000ms  +0.6
+   hold  5s gross capture (bp) by latency:    0ms  +4.3 |   50ms  +3.9 |  100ms  +3.0 |  200ms  +2.4 |  300ms  +2.1 |  500ms  +1.8 | 1000ms  +1.2
+   hold 30s gross capture (bp) by latency:    0ms  +4.4 |   50ms  +4.1 |  100ms  +3.2 |  200ms  +2.6 |  300ms  +2.3 |  500ms  +1.9 | 1000ms  +1.3
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.3 | 100ms  +1.3 | 200ms  +1.8 | 300ms  +2.1 | 500ms  +2.5 | 1000ms  +3.1
+Binance >= 10 bp within 1000 ms, 2021-23: 15665 events
+   hold  1s gross capture (bp) by latency:    0ms  +4.7 |   50ms  +4.3 |  100ms  +3.5 |  200ms  +2.4 |  300ms  +1.9 |  500ms  +1.2 | 1000ms  +0.7
+   hold  5s gross capture (bp) by latency:    0ms  +5.6 |   50ms  +5.1 |  100ms  +4.3 |  200ms  +3.1 |  300ms  +2.5 |  500ms  +1.7 | 1000ms  +0.9
+   hold 30s gross capture (bp) by latency:    0ms  +5.3 |   50ms  +4.8 |  100ms  +4.0 |  200ms  +2.8 |  300ms  +2.2 |  500ms  +1.4 | 1000ms  +0.6
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.5 | 100ms  +1.3 | 200ms  +2.5 | 300ms  +3.1 | 500ms  +3.9 | 1000ms  +4.7
+Binance >= 10 bp within 1000 ms, 2024-26:  5836 events
+   hold  1s gross capture (bp) by latency:    0ms  +6.2 |   50ms  +5.7 |  100ms  +3.4 |  200ms  +2.4 |  300ms  +1.8 |  500ms  +1.0 | 1000ms  +0.5
+   hold  5s gross capture (bp) by latency:    0ms  +6.9 |   50ms  +6.3 |  100ms  +4.0 |  200ms  +2.9 |  300ms  +2.2 |  500ms  +1.4 | 1000ms  +0.7
+   hold 30s gross capture (bp) by latency:    0ms  +6.5 |   50ms  +5.9 |  100ms  +3.6 |  200ms  +2.5 |  300ms  +1.8 |  500ms  +0.9 | 1000ms  +0.2
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.6 | 100ms  +2.9 | 200ms  +4.0 | 300ms  +4.7 | 500ms  +5.5 | 1000ms  +6.2
+Binance >= 20 bp within 1000 ms, 2021-23:  2274 events
+   hold  1s gross capture (bp) by latency:    0ms  +8.1 |   50ms  +7.4 |  100ms  +6.1 |  200ms  +4.3 |  300ms  +3.4 |  500ms  +2.0 | 1000ms  +0.3
+   hold  5s gross capture (bp) by latency:    0ms  +8.8 |   50ms  +8.0 |  100ms  +6.8 |  200ms  +4.9 |  300ms  +3.7 |  500ms  +2.2 | 1000ms  +1.0
+   hold 30s gross capture (bp) by latency:    0ms +10.0 |   50ms  +9.2 |  100ms  +7.9 |  200ms  +6.1 |  300ms  +4.8 |  500ms  +3.5 | 1000ms  +1.9
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +0.8 | 100ms  +2.1 | 200ms  +3.9 | 300ms  +5.0 | 500ms  +6.6 | 1000ms  +8.1
+Binance >= 20 bp within 1000 ms, 2024-26:   744 events
+   hold  1s gross capture (bp) by latency:    0ms +11.8 |   50ms +10.8 |  100ms  +7.4 |  200ms  +5.1 |  300ms  +3.7 |  500ms  +1.8 | 1000ms  +0.4
+   hold  5s gross capture (bp) by latency:    0ms +12.1 |   50ms +11.0 |  100ms  +7.4 |  200ms  +5.0 |  300ms  +3.3 |  500ms  +1.3 | 1000ms  -0.4
+   hold 30s gross capture (bp) by latency:    0ms  +9.5 |   50ms  +8.5 |  100ms  +5.0 |  200ms  +2.6 |  300ms  +1.0 |  500ms  -0.9 | 1000ms  -2.3
+   Deribit move already done by the time of entry (bp): 0ms  +0.0 | 50ms  +1.0 | 100ms  +4.6 | 200ms  +6.9 | 300ms  +8.5 | 500ms +10.5 | 1000ms +11.8
+costs: standard taker in+out ~10 bp; a 2 bp round trip needs top-tier/maker-rebate fees

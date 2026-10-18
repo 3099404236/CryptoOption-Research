@@ -1,0 +1,28 @@
+
+BTC: 395 weeks; ATM IV 55.2% vs realized from daily 08:00 closes 52.6%
+  per week, % of spot: premium 6.13% | gross +0.450% (t +3.04)
+  costs: option fees 0.075%, option spread 0.100%, hedge taker fees 0.106% (hedge turnover 2.12x spot)
+  net with taker hedges +0.169% (t +1.14); with maker (0 fee) hedges +0.275% (t +1.86)
+  worst week gross -22.81%, best +10.13%; share of weeks positive 62%
+    2019: n 47  net_taker/wk +0.494%  sum +23.2%
+    2020: n 52  net_taker/wk +0.130%  sum +6.7%
+    2021: n 50  net_taker/wk +0.221%  sum +11.0%
+    2022: n 50  net_taker/wk +0.241%  sum +12.0%
+    2023: n 52  net_taker/wk -0.142%  sum -7.4%
+    2024: n 52  net_taker/wk +0.208%  sum +10.8%
+    2025: n 52  net_taker/wk +0.056%  sum +2.9%
+    2026: n 40  net_taker/wk +0.189%  sum +7.5%
+
+ETH: 318 weeks; ATM IV 66.1% vs realized from daily 08:00 closes 66.4%
+  per week, % of spot: premium 7.29% | gross +0.081% (t +0.42)
+  costs: option fees 0.075%, option spread 0.100%, hedge taker fees 0.109% (hedge turnover 2.18x spot)
+  net with taker hedges -0.203% (t -1.05); with maker (0 fee) hedges -0.094% (t -0.49)
+  worst week gross -25.83%, best +8.31%; share of weeks positive 58%
+    2020: n 32  net_taker/wk -0.952%  sum -30.5%
+    2021: n 46  net_taker/wk -0.326%  sum -15.0%
+    2022: n 52  net_taker/wk -0.150%  sum -7.8%
+    2023: n 52  net_taker/wk +0.020%  sum +1.0%
+    2024: n 51  net_taker/wk +0.071%  sum +3.6%
+    2025: n 50  net_taker/wk -0.301%  sum -15.1%
+    2026: n 35  net_taker/wk -0.027%  sum -0.9%
+ANALYSIS_DONE

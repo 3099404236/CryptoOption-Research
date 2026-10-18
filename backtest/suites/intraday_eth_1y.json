@@ -1,0 +1,82 @@
+[
+ {
+  "project": "DeribitIntraday",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "SABR_DELTA_HEDGED_STRANGLE",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "SHORT_STRANGLE_STOP_HEDGE",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "AS_MARKET_MAKING",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "NBP_FLOW_STRADDLE",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "POST_SPIKE_PREMIUM_SELL",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "PARITY_CONVERSION_ARB",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "TREND_RATIO_SPREAD_STOP",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "TREND_BUTTERFLY",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "BUY_AND_HOLD",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ }
+]

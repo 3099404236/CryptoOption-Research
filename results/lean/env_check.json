@@ -1,0 +1,38 @@
+[
+ {
+  "project": "DeribitWeekly",
+  "strategy": "SHORT_STRANGLE",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "seconds": 607.7,
+  "ok": true,
+  "folder": "/mnt/quant_storage/quant_workspace/lean_workspace_v2/DeribitWeekly/backtests/2026-10-17_14-49-33",
+  "lean": {
+   "Net Profit": "-8.175%",
+   "Compounding Annual Return": "-1.088%",
+   "Drawdown": "18.400%",
+   "Sharpe Ratio": "-0.133",
+   "Probabilistic Sharpe Ratio": "0.005%",
+   "Total Fees": "$60353.43",
+   "Total Orders": "1618",
+   "Win Rate": "86%"
+  },
+  "summary_line": "SUMMARY mode=SHORT_STRANGLE coin=BTC cycles=405 hedge_trades=0 skipped={'strikes not available': 11} fees=60353.43 funding=0.0 settlements=808",
+  "errors_in_log": 0,
+  "metrics": {
+   "start_equity": 1000000.0,
+   "end_equity": 918248.3631,
+   "total_return": -0.08175163690000009,
+   "years": 7.79192334017796,
+   "cagr": -0.01088592767780927,
+   "ann_vol": 0.05516435539230636,
+   "sharpe_excess": -0.6705045367312076,
+   "max_drawdown": 0.1771628462439544,
+   "calmar": -0.06144588387804109,
+   "avg_risk_free": 0.027592413066385667,
+   "trading_days": 2847
+  }
+ }
+]

@@ -1,0 +1,12 @@
+
+=== BTC (bp; Fri = weekly expiry, M = last Friday of month)
+  07:00-07:30: Mon-Thu: mean +1.94 (t +1.9) |r|  26.5 n 1627 | Fri: mean +0.58 (t +0.3) |r|  30.0 n 406 | Fri-M: mean -9.66 (t -2.0) |r|  32.5 n 93
+  07:30-08:00: Mon-Thu: mean -0.63 (t -0.6) |r|  25.6 n 1627 | Fri: mean -1.06 (t -0.5) |r|  28.6 n 406 | Fri-M: mean -7.28 (t -1.5) |r|  33.8 n 93
+  08:00-08:05: Mon-Thu: mean +0.65 (t +1.2) |r|  13.4 n 1627 | Fri: mean +2.63 (t +2.0) |r|  14.5 n 406 | Fri-M: mean +4.32 (t +1.8) |r|  16.8 n 93
+  08:00-08:30: Mon-Thu: mean +1.44 (t +1.3) |r|  29.4 n 1627 | Fri: mean +6.32 (t +2.7) |r|  31.0 n 406 | Fri-M: mean +5.60 (t +1.0) |r|  33.9 n 93
+
+=== ETH (bp; Fri = weekly expiry, M = last Friday of month)
+  07:00-07:30: Mon-Thu: mean +4.85 (t +3.1) |r|  36.6 n 1418 | Fri: mean +0.06 (t +0.0) |r|  39.9 n 354 | Fri-M: mean -16.22 (t -2.5) |r|  45.1 n 81
+  07:30-08:00: Mon-Thu: mean -1.65 (t -1.3) |r|  32.8 n 1418 | Fri: mean -3.86 (t -1.4) |r|  36.4 n 354 | Fri-M: mean -10.68 (t -1.7) |r|  42.5 n 81
+  08:00-08:05: Mon-Thu: mean +0.25 (t +0.3) |r|  18.2 n 1418 | Fri: mean +1.77 (t +1.0) |r|  18.5 n 354 | Fri-M: mean +0.74 (t +0.2) |r|  22.2 n 81
+  08:00-08:30: Mon-Thu: mean -0.46 (t -0.3) |r|  38.9 n 1418 | Fri: mean +6.84 (t +1.9) |r|  42.9 n 354 | Fri-M: mean +1.66 (t +0.2) |r|  45.9 n 81

@@ -1,0 +1,9 @@
+DeribitWeekly/SHORT_STRANGLE/BTC/2019-01-01..2026-10-15/x0.5 {'option_fills': 810, 'market_fills_checked': 810, 'settlements': 808, 'fee_mismatch': 2} VIOLATIONS: none
+DeribitWeekly/CALL_BUTTERFLY/BTC/2019-01-01..2026-10-15/x0.5 {'option_fills': 1161, 'market_fills_checked': 1161, 'settlements': 1158, 'fee_mismatch': 174} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR/BTC/2019-01-01..2026-10-15/x0.5 {'option_fills': 1620, 'market_fills_checked': 1620, 'settlements': 1616, 'fee_mismatch': 489} VIOLATIONS: none
+DeribitWeekly/SHORT_STRANGLE/BTC/2019-01-01..2026-10-15/x2.0 {'option_fills': 810, 'market_fills_checked': 810, 'settlements': 808, 'fee_mismatch': 6} VIOLATIONS: none
+DeribitWeekly/CALL_BUTTERFLY/BTC/2019-01-01..2026-10-15/x2.0 {'option_fills': 1161, 'market_fills_checked': 1161, 'settlements': 1158, 'fee_mismatch': 178} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR/BTC/2019-01-01..2026-10-15/x2.0 {'option_fills': 1620, 'market_fills_checked': 1620, 'settlements': 1616, 'fee_mismatch': 483} VIOLATIONS: none
+DeribitWeekly/SHORT_STRANGLE/BTC/2019-01-01..2026-10-15/x0.0 {'option_fills': 810, 'market_fills_checked': 810, 'settlements': 808, 'fee_mismatch': 2} VIOLATIONS: none
+DeribitWeekly/CALL_BUTTERFLY/BTC/2019-01-01..2026-10-15/x0.0 {'option_fills': 1161, 'market_fills_checked': 1161, 'settlements': 1158, 'fee_mismatch': 176} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR/BTC/2019-01-01..2026-10-15/x0.0 {'option_fills': 1620, 'market_fills_checked': 1620, 'settlements': 1616, 'fee_mismatch': 513} VIOLATIONS: none

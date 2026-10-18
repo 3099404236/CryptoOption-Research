@@ -1,0 +1,92 @@
+[
+ {
+  "run": "DeribitIntradayFast/GAMMA_SCALPING/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/SABR_DELTA_HEDGED_STRANGLE/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/SHORT_STRANGLE_STOP_HEDGE/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/AS_MARKET_MAKING/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 175,
+   "mm_fills": 175,
+   "settlements": 7
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/NBP_FLOW_STRADDLE/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 4,
+   "market_fills_checked": 4
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/POST_SPIKE_PREMIUM_SELL/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 12,
+   "market_fills_checked": 12
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/PARITY_CONVERSION_ARB/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/TREND_RATIO_SPREAD_STOP/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/BUY_AND_HOLD/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntradayFast/TREND_BUTTERFLY/BTC/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 3,
+   "market_fills_checked": 3,
+   "settlements": 3
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

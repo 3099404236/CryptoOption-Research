@@ -1,0 +1,16 @@
+[Unit]
+Description=Crypto paper trader (Deribit live public data, simulated fills); writes dashboard files to /opt/cryptopaper/public
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+WorkingDirectory=/opt/cryptopaper
+ExecStart=/usr/bin/python3 /opt/cryptopaper/papertrader.py run
+Environment=PAPER_DB=/opt/cryptopaper/paper.db PAPER_PUBLIC=/opt/cryptopaper/public
+Restart=always
+RestartSec=10
+MemoryMax=300M
+Nice=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,42 @@
+
+BTC 1-week ATM straddle (395 entries, avg 6.9 days): IV 55.2% vs RV 58.3%; IV>RV 58% of entries; mean IV^2-RV^2 -0.094
+   short straddle at mark, % of spot per trade: unhedged +0.183% (t +0.60), delta-hedged daily +0.450% (t +3.04); premium 6.13%; hedged capture +7.3%
+     2019: n 47 IV 68% RV 67% hedged +0.77% unhedged +1.14%
+     2020: n 52 IV 58% RV 67% hedged +0.41% unhedged -1.29%
+     2021: n 50 IV 82% RV 89% hedged +0.51% unhedged +0.40%
+     2022: n 50 IV 59% RV 61% hedged +0.52% unhedged +1.38%
+     2023: n 52 IV 41% RV 44% hedged +0.14% unhedged -0.64%
+     2024: n 52 IV 51% RV 52% hedged +0.49% unhedged +0.06%
+     2025: n 52 IV 41% RV 43% hedged +0.33% unhedged +0.32%
+     2026: n 40 IV 39% RV 42% hedged +0.47% unhedged +0.27%
+
+BTC 1-month ATM straddle (132 entries, avg 30.8 days): IV 56.0% vs RV 58.7%; IV>RV 58% of entries; mean IV^2-RV^2 -0.073
+   short straddle at mark, % of spot per trade: unhedged -0.291% (t +0.29), delta-hedged daily +0.895% (t +0.84); premium 12.95%; hedged capture +6.9%
+     2019: n 10 IV 74% RV 71% hedged +1.42% unhedged +2.87%
+     2020: n 15 IV 62% RV 75% hedged +0.92% unhedged -4.71%
+     2021: n 11 IV 88% RV 102% hedged +1.47% unhedged +1.04%
+     2022: n 19 IV 63% RV 66% hedged -0.09% unhedged -0.53%
+     2023: n 24 IV 45% RV 46% hedged +0.84% unhedged -0.43%
+     2024: n 18 IV 55% RV 52% hedged +1.75% unhedged -1.29%
+     2025: n 21 IV 43% RV 44% hedged +0.68% unhedged +1.67%
+     2026: n 14 IV 42% RV 41% hedged +0.69% unhedged +0.04%
+
+ETH 1-week ATM straddle (318 entries, avg 6.9 days): IV 66.1% vs RV 73.1%; IV>RV 46% of entries; mean IV^2-RV^2 -0.197
+   short straddle at mark, % of spot per trade: unhedged -0.167% (t -0.42), delta-hedged daily +0.081% (t +0.42); premium 7.29%; hedged capture +1.1%
+     2020: n 32 IV 67% RV 86% hedged -0.67% unhedged -2.78%
+     2021: n 46 IV 99% RV 110% hedged -0.04% unhedged -0.44%
+     2022: n 52 IV 76% RV 82% hedged +0.13% unhedged +0.65%
+     2023: n 52 IV 44% RV 48% hedged +0.30% unhedged -0.29%
+     2024: n 51 IV 59% RV 62% hedged +0.36% unhedged -0.34%
+     2025: n 50 IV 66% RV 71% hedged -0.02% unhedged +0.56%
+     2026: n 35 IV 52% RV 56% hedged +0.26% unhedged +0.76%
+
+ETH 1-month ATM straddle (103 entries, avg 31.2 days): IV 67.8% vs RV 73.3%; IV>RV 45% of entries; mean IV^2-RV^2 -0.098
+   short straddle at mark, % of spot per trade: unhedged -1.054% (t -0.18), delta-hedged daily +0.426% (t +0.75); premium 15.74%; hedged capture +2.7%
+     2020: n  3 IV 86% RV 120% hedged +0.37% unhedged -4.37%
+     2021: n 14 IV 100% RV 89% hedged +5.26% unhedged -1.17%
+     2022: n 19 IV 79% RV 87% hedged -0.36% unhedged +0.48%
+     2023: n 19 IV 43% RV 50% hedged +0.09% unhedged +1.37%
+     2024: n 19 IV 61% RV 66% hedged +0.59% unhedged +1.10%
+     2025: n 21 IV 66% RV 74% hedged -1.65% unhedged -6.04%
+     2026: n  8 IV 58% RV 69% hedged -0.30% unhedged -1.04%

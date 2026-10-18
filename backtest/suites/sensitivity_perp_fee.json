@@ -1,0 +1,2 @@
+[{"project": "DeribitIntraday", "strategy": "GAMMA_SCALPING", "coin": "ETH", "start": "2025-10-01", "end": "2026-10-15", "res": "minute", "perp_fee": 0.0},
+ {"project": "DeribitIntraday", "strategy": "SABR_DELTA_HEDGED_STRANGLE", "coin": "ETH", "start": "2025-10-01", "end": "2026-10-15", "res": "minute", "perp_fee": 0.0}]

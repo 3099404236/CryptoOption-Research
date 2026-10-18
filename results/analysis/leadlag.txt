@@ -1,0 +1,18 @@
+
+=== BTC: 212 days (110 in-sample, 102 out-of-sample)
+  L=1s |gap|>= 10.1bp in-sample      2158 events | already caught up by t+1:  +4.68bp | after t+1: 5s  +1.07bp (t +4.8) | 15s  +1.46bp (t +3.8) | 30s  +2.05bp (t +4.4) | 60s  +2.09bp (t +3.3)
+  L=1s |gap|>= 10.1bp out-of-sample   504 events | already caught up by t+1:  +7.54bp | after t+1: 5s  +2.66bp (t +4.7) | 15s  +2.61bp (t +3.6) | 30s  +2.76bp (t +3.4) | 60s  +2.38bp (t +2.3)
+  L=2s |gap|>= 10.7bp in-sample      2072 events | already caught up by t+1:  +4.68bp | after t+1: 5s  +1.49bp (t +6.5) | 15s  +1.68bp (t +4.3) | 30s  +2.13bp (t +4.4) | 60s  +2.67bp (t +4.0)
+  L=2s |gap|>= 10.7bp out-of-sample   437 events | already caught up by t+1:  +7.71bp | after t+1: 5s  +3.74bp (t +6.3) | 15s  +4.55bp (t +6.6) | 30s  +3.65bp (t +4.4) | 60s  +2.94bp (t +2.6)
+  L=5s |gap|>= 11.4bp in-sample      2056 events | already caught up by t+1:  +4.54bp | after t+1: 5s  +2.03bp (t +8.8) | 15s  +2.22bp (t +5.7) | 30s  +2.21bp (t +4.7) | 60s  +3.07bp (t +4.7)
+  L=5s |gap|>= 11.4bp out-of-sample   366 events | already caught up by t+1:  +8.58bp | after t+1: 5s  +3.37bp (t +4.6) | 15s  +3.95bp (t +4.8) | 30s  +3.52bp (t +3.3) | 60s  +3.93bp (t +2.9)
+  a taker round trip costs ~10 bp
+
+=== ETH: 212 days (110 in-sample, 102 out-of-sample)
+  L=1s |gap|>= 14.0bp in-sample      1435 events | already caught up by t+1:  +5.58bp | after t+1: 5s  +1.68bp (t +4.8) | 15s  +2.68bp (t +4.1) | 30s  +2.59bp (t +3.1) | 60s  +2.97bp (t +2.7)
+  L=1s |gap|>= 14.0bp out-of-sample   378 events | already caught up by t+1:  +9.39bp | after t+1: 5s  +1.31bp (t +1.7) | 15s  +1.43bp (t +1.1) | 30s  +1.50bp (t +1.0) | 60s  +2.86bp (t +1.6)
+  L=2s |gap|>= 14.9bp in-sample      1393 events | already caught up by t+1:  +6.10bp | after t+1: 5s  +1.70bp (t +5.0) | 15s  +1.98bp (t +3.2) | 30s  +2.22bp (t +2.9) | 60s  +2.58bp (t +2.4)
+  L=2s |gap|>= 14.9bp out-of-sample   327 events | already caught up by t+1: +10.23bp | after t+1: 5s  +2.73bp (t +3.4) | 15s  +2.76bp (t +2.0) | 30s  +0.78bp (t +0.5) | 60s  +1.21bp (t +0.7)
+  L=5s |gap|>= 15.9bp in-sample      1369 events | already caught up by t+1:  +5.90bp | after t+1: 5s  +3.48bp (t +9.9) | 15s  +3.59bp (t +5.5) | 30s  +3.12bp (t +3.7) | 60s  +5.20bp (t +4.4)
+  L=5s |gap|>= 15.9bp out-of-sample   292 events | already caught up by t+1: +10.12bp | after t+1: 5s  +2.28bp (t +2.5) | 15s  +2.78bp (t +1.9) | 30s  +2.56bp (t +1.4) | 60s  +1.50bp (t +0.8)
+  a taker round trip costs ~10 bp

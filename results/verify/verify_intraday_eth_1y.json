@@ -1,0 +1,96 @@
+[
+ {
+  "run": "DeribitIntraday/SABR_DELTA_HEDGED_STRANGLE/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 110,
+   "market_fills_checked": 110,
+   "settlements": 108
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SHORT_STRANGLE_STOP_HEDGE/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 110,
+   "market_fills_checked": 110,
+   "settlements": 108
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/NBP_FLOW_STRADDLE/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1388,
+   "market_fills_checked": 1388
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/GAMMA_SCALPING/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 110,
+   "market_fills_checked": 110,
+   "settlements": 108
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/POST_SPIKE_PREMIUM_SELL/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1844,
+   "market_fills_checked": 1844
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_RATIO_SPREAD_STOP/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 140,
+   "market_fills_checked": 140,
+   "settlements": 82
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_BUTTERFLY/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 165,
+   "market_fills_checked": 165,
+   "settlements": 162
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/BUY_AND_HOLD/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/PARITY_CONVERSION_ARB/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 18,
+   "market_fills_checked": 18,
+   "settlements": 18
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/AS_MARKET_MAKING/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 13586,
+   "mm_fills": 13586,
+   "settlements": 426
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

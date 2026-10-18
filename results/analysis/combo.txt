@@ -1,0 +1,44 @@
+
+=== option sleeves at 25 % notional (+ BTC funding carry), equal capital ===
+daily-return correlation:
+              ETH strangle  BTC put  BTC straddle  BTC carry
+ETH strangle          1.00     0.18          0.03       0.00
+BTC put               0.18     1.00         -0.01       0.04
+BTC straddle          0.03    -0.01          1.00      -0.05
+BTC carry             0.00     0.04         -0.05       1.00
+-- 2019/20-2023
+   ETH strangle  CAGR +3.41%  vol 2.22%  raw Sharpe  1.54  maxDD  2.25%
+   BTC put       CAGR +2.19%  vol 3.51%  raw Sharpe  0.62  maxDD  4.79%
+   BTC straddle  CAGR +1.51%  vol 5.73%  raw Sharpe  0.26  maxDD  7.49%
+   BTC carry     CAGR +6.52%  vol 1.16%  raw Sharpe  5.64  maxDD  3.27%
+   3 options     CAGR +2.43%  vol 2.37%  raw Sharpe  1.02  maxDD  3.19%
+   3 opt+carry   CAGR +3.44%  vol 1.80%  raw Sharpe  1.91  maxDD  2.20%
+-- 2024-2026
+   ETH strangle  CAGR +2.44%  vol 3.21%  raw Sharpe  0.76  maxDD  4.02%
+   BTC put       CAGR +2.06%  vol 2.40%  raw Sharpe  0.86  maxDD  3.45%
+   BTC straddle  CAGR +2.00%  vol 3.61%  raw Sharpe  0.55  maxDD  4.46%
+   BTC carry     CAGR +5.33%  vol 0.45%  raw Sharpe 11.93  maxDD  0.30%
+   3 options     CAGR +2.20%  vol 2.00%  raw Sharpe  1.10  maxDD  2.83%
+   3 opt+carry   CAGR +2.97%  vol 1.50%  raw Sharpe  1.98  maxDD  1.85%
+
+=== option sleeves at 100 % notional (+ BTC funding carry), equal capital ===
+daily-return correlation:
+              ETH strangle  BTC put  BTC straddle  BTC carry
+ETH strangle          1.00     0.19          0.03       0.00
+BTC put               0.19     1.00         -0.03       0.03
+BTC straddle          0.03    -0.03          1.00      -0.03
+BTC carry             0.00     0.03         -0.03       1.00
+-- 2019/20-2023
+   ETH strangle  CAGR +6.64%  vol 4.15%  raw Sharpe  1.60  maxDD  3.42%
+   BTC put       CAGR +5.58%  vol 14.12%  raw Sharpe  0.39  maxDD 18.57%
+   BTC straddle  CAGR +3.02%  vol 17.68%  raw Sharpe  0.17  maxDD 24.47%
+   BTC carry     CAGR +6.52%  vol 1.16%  raw Sharpe  5.64  maxDD  3.27%
+   3 options     CAGR +5.70%  vol 7.59%  raw Sharpe  0.75  maxDD 12.28%
+   3 opt+carry   CAGR +5.97%  vol 5.70%  raw Sharpe  1.05  maxDD  8.96%
+-- 2024-2026
+   ETH strangle  CAGR +8.89%  vol 10.84%  raw Sharpe  0.82  maxDD 13.81%
+   BTC put       CAGR +8.10%  vol 9.92%  raw Sharpe  0.82  maxDD 14.02%
+   BTC straddle  CAGR +7.55%  vol 14.64%  raw Sharpe  0.52  maxDD 17.07%
+   BTC carry     CAGR +5.33%  vol 0.45%  raw Sharpe 11.93  maxDD  0.30%
+   3 options     CAGR +8.65%  vol 7.62%  raw Sharpe  1.13  maxDD 10.36%
+   3 opt+carry   CAGR +7.87%  vol 5.71%  raw Sharpe  1.38  maxDD  7.50%

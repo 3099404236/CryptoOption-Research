@@ -1,0 +1,210 @@
+[
+ {
+  "run": "DeribitIntraday/BUY_AND_HOLD/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SHORT_STRANGLE_STOP_HEDGE/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 708,
+   "market_fills_checked": 708,
+   "settlements": 706
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_BUTTERFLY/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1221,
+   "market_fills_checked": 1221,
+   "settlements": 1218
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_RATIO_SPREAD_STOP/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1010,
+   "market_fills_checked": 1010,
+   "settlements": 632
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SHORT_STRANGLE_STOP_HEDGE/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 814,
+   "market_fills_checked": 814,
+   "settlements": 812
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/POST_SPIKE_PREMIUM_SELL/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 12528,
+   "market_fills_checked": 12528
+  },
+  "violations": {
+   "fill_not_at_quote": 2
+  },
+  "examples": {
+   "fill_not_at_quote": [
+    [
+     "2019-10-31 21:01:00",
+     "BTC   191108C09750000",
+     -23.9,
+     172.1847,
+     0.0
+    ],
+    [
+     "2019-10-31 21:04:00",
+     "BTC   191108C09750000",
+     -22.5,
+     172.1847,
+     0.0
+    ]
+   ]
+  }
+ },
+ {
+  "run": "DeribitIntraday/PARITY_CONVERSION_ARB/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 334,
+   "market_fills_checked": 334,
+   "settlements": 334
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/NBP_FLOW_STRADDLE/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 8930,
+   "market_fills_checked": 8930,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/BUY_AND_HOLD/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/NBP_FLOW_STRADDLE/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 10824,
+   "market_fills_checked": 10824
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/AS_MARKET_MAKING/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 107426,
+   "mm_fills": 107426,
+   "settlements": 1638
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_BUTTERFLY/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1059,
+   "market_fills_checked": 1059,
+   "settlements": 1056
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_RATIO_SPREAD_STOP/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 912,
+   "market_fills_checked": 912,
+   "settlements": 526
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/AS_MARKET_MAKING/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 109637,
+   "mm_fills": 109637,
+   "settlements": 1024
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/POST_SPIKE_PREMIUM_SELL/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 15832,
+   "market_fills_checked": 15832
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/PARITY_CONVERSION_ARB/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 308,
+   "market_fills_checked": 308,
+   "settlements": 308
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SABR_DELTA_HEDGED_STRANGLE/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 708,
+   "market_fills_checked": 708,
+   "settlements": 706
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SABR_DELTA_HEDGED_STRANGLE/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 814,
+   "market_fills_checked": 814,
+   "settlements": 812
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/GAMMA_SCALPING/ETH/2020-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 708,
+   "market_fills_checked": 708,
+   "settlements": 706
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/GAMMA_SCALPING/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 814,
+   "market_fills_checked": 814,
+   "settlements": 812
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

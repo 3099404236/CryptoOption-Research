@@ -1,0 +1,80 @@
+[
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2023-12-31",
+  "res": "minute",
+  "structure": "put30",
+  "entry": "mon",
+  "hedge": "none",
+  "filter": "har1.10",
+  "unit_notional": 1.0
+ },
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "BTC",
+  "start": "2024-01-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "structure": "put30",
+  "entry": "mon",
+  "hedge": "none",
+  "filter": "har1.10",
+  "unit_notional": 1.0
+ },
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "ETH",
+  "start": "2020-01-01",
+  "end": "2023-12-31",
+  "res": "minute",
+  "structure": "strangle25",
+  "entry": "mon",
+  "hedge": "none",
+  "filter": "har1.10",
+  "unit_notional": 1.0
+ },
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "ETH",
+  "start": "2024-01-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "structure": "strangle25",
+  "entry": "mon",
+  "hedge": "none",
+  "filter": "har1.10",
+  "unit_notional": 1.0
+ },
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2023-12-31",
+  "res": "minute",
+  "structure": "straddle",
+  "entry": "fri",
+  "hedge": "daily",
+  "filter": "none",
+  "unit_notional": 1.0
+ },
+ {
+  "project": "DeribitVolSell",
+  "strategy": "VOL_SELL",
+  "coin": "BTC",
+  "start": "2024-01-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "structure": "straddle",
+  "entry": "fri",
+  "hedge": "daily",
+  "filter": "none",
+  "unit_notional": 1.0
+ }
+]

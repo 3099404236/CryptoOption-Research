@@ -1,0 +1,33 @@
+
+=== BTC A) option-flow hedging pressure: event = |net taker delta| >= $1,241,031 (in-sample 99.9th pct)
+  in-sample      6078 events | signed move from t+1: 5s  +0.15bp (t +1.6) | 15s  +0.34bp (t +2.2) | 30s  +0.56bp (t +2.8) | 60s  +0.84bp (t +3.0) | 300s  +1.28bp (t +2.4) | before (t-60..t): +4.83bp
+  out-of-sample 26074 events | signed move from t+1: 5s  +0.05bp (t +1.6) | 15s  +0.10bp (t +2.3) | 30s  +0.14bp (t +2.4) | 60s  +0.30bp (t +4.1) | 300s  +0.54bp (t +3.8) | before (t-60..t): +3.25bp
+  taker round trip costs ~10 bp; a tradable effect needs a signed move clearly above that
+
+=== BTC B) crash/spike reversal: event = 60-s return <= -88 bp or >= 86 bp, 10-min cool-down
+  in-sample: 3085 events (1599 crashes, 1486 spikes)
+     limit   0bp away, exit   60s: fills 2875/3085, net   -9.54 bp/trade (t -7.89), median +0.6, total -274.2% of notional
+     limit   0bp away, exit  300s: fills 2875/3085, net  -10.23 bp/trade (t -5.69), median +3.2, total -294.1% of notional
+     limit   0bp away, exit  900s: fills 2875/3085, net   -7.18 bp/trade (t -3.08), median +5.2, total -206.5% of notional
+     limit  25bp away, exit   60s: fills 1575/3085, net  -10.63 bp/trade (t -5.32), median +2.8, total -167.5% of notional
+     limit  25bp away, exit  300s: fills 1575/3085, net  -13.22 bp/trade (t -4.69), median +4.3, total -208.2% of notional
+     limit  25bp away, exit  900s: fills 1575/3085, net   -8.88 bp/trade (t -2.54), median +5.7, total -139.8% of notional
+     limit  50bp away, exit   60s: fills  899/3085, net  -11.42 bp/trade (t -3.61), median +6.0, total -102.6% of notional
+     limit  50bp away, exit  300s: fills  899/3085, net  -15.45 bp/trade (t -3.61), median +6.2, total -138.9% of notional
+     limit  50bp away, exit  900s: fills  899/3085, net  -11.85 bp/trade (t -2.30), median +7.3, total -106.5% of notional
+     limit 100bp away, exit   60s: fills  322/3085, net  -17.98 bp/trade (t -2.43), median +7.9, total -57.9% of notional
+     limit 100bp away, exit  300s: fills  322/3085, net  -17.24 bp/trade (t -1.94), median +13.4, total -55.5% of notional
+     limit 100bp away, exit  900s: fills  322/3085, net  -15.79 bp/trade (t -1.49), median +15.9, total -50.8% of notional
+  out-of-sample: 356 events (169 crashes, 187 spikes)
+     limit   0bp away, exit   60s: fills  328/356, net   -2.43 bp/trade (t -0.87), median +4.2, total -8.0% of notional
+     limit   0bp away, exit  300s: fills  328/356, net   +0.76 bp/trade (t +0.18), median +8.6, total +2.5% of notional
+     limit   0bp away, exit  900s: fills  328/356, net   -1.65 bp/trade (t -0.28), median +10.9, total -5.4% of notional
+     limit  25bp away, exit   60s: fills  178/356, net   +1.49 bp/trade (t +0.35), median +10.7, total +2.7% of notional
+     limit  25bp away, exit  300s: fills  178/356, net   +8.35 bp/trade (t +1.43), median +14.7, total +14.9% of notional
+     limit  25bp away, exit  900s: fills  178/356, net   +8.14 bp/trade (t +0.94), median +12.9, total +14.5% of notional
+     limit  50bp away, exit   60s: fills   95/356, net   +6.65 bp/trade (t +1.03), median +17.3, total +6.3% of notional
+     limit  50bp away, exit  300s: fills   95/356, net  +27.60 bp/trade (t +3.19), median +30.8, total +26.2% of notional
+     limit  50bp away, exit  900s: fills   95/356, net  +25.76 bp/trade (t +1.86), median +29.4, total +24.5% of notional
+     limit 100bp away, exit   60s: fills   35/356, net  +29.51 bp/trade (t +2.43), median +37.3, total +10.3% of notional
+     limit 100bp away, exit  300s: fills   35/356, net  +79.90 bp/trade (t +4.83), median +78.8, total +28.0% of notional
+     limit 100bp away, exit  900s: fills   35/356, net  +89.30 bp/trade (t +4.13), median +64.2, total +31.3% of notional

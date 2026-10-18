@@ -1,0 +1,5 @@
+BTC: OLS(60 s) fitted on in-sample; trade when |forecast| >= 1.45 bp (in-sample 99th pct)
+  in-sample    : signals 66995, maker fills 43411 (65%), maker net -7.16 bp/trade (t -43.54) | taker net -9.00 bp/trade (t -74.36)
+     maker net per year (bp/trade): 2019:-7.5 2020:-8.4 2021:-6.3 2022:-7.4 2023:-5.0
+  out-of-sample: signals 5461, maker fills 4487 (82%), maker net -6.63 bp/trade (t -15.73) | taker net -9.28 bp/trade (t -25.51)
+     maker net per year (bp/trade): 2024:-6.9 2025:-6.7 2026:-6.0

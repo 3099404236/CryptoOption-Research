@@ -1,0 +1,22 @@
+[
+ {
+  "run": "DeribitIntraday/SABR_DELTA_HEDGED_STRANGLE/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 110,
+   "market_fills_checked": 110,
+   "settlements": 108
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/GAMMA_SCALPING/ETH/2025-10-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 110,
+   "market_fills_checked": 110,
+   "settlements": 108
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

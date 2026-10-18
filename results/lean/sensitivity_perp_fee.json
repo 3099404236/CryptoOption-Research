@@ -1,0 +1,76 @@
+[
+ {
+  "project": "DeribitIntraday",
+  "strategy": "SABR_DELTA_HEDGED_STRANGLE",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "perp_fee": 0.0,
+  "seconds": 3404.6,
+  "ok": true,
+  "folder": "/mnt/quant_storage/quant_workspace/lean_workspace_v2/DeribitIntraday/backtests/2026-10-17_09-38-18",
+  "lean": {
+   "Net Profit": "-0.385%",
+   "Compounding Annual Return": "-0.369%",
+   "Drawdown": "1.600%",
+   "Sharpe Ratio": "-0.184",
+   "Probabilistic Sharpe Ratio": "7.187%",
+   "Total Fees": "$8787.09",
+   "Total Orders": "2551",
+   "Win Rate": "33%"
+  },
+  "summary_line": "SUMMARY mode=SABR_DELTA_HEDGED_STRANGLE coin=ETH {'cycles': 55, 'hedges': 2296, 'signals': 0, 'skipped': {'no 0.20-delta pair': 55}, 'mm_fills': 0, 'arb_trades': 0, 'arb_locked_edge_usd': 0.0, 'stops': 0} fees=8787.09 funding=748.84 settlements=108",
+  "errors_in_log": 0,
+  "metrics": {
+   "start_equity": 1000000.0,
+   "end_equity": 996154.6809,
+   "total_return": -0.0038453190999999665,
+   "years": 1.0431211498973305,
+   "cagr": -0.0036866524422021207,
+   "ann_vol": 0.01603641062036825,
+   "sharpe_excess": -2.507299690644925,
+   "max_drawdown": 0.015013698380441975,
+   "calmar": -0.24555258463195478,
+   "avg_risk_free": 0.03666623036649214,
+   "trading_days": 382
+  }
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "ETH",
+  "start": "2025-10-01",
+  "end": "2026-10-15",
+  "res": "minute",
+  "perp_fee": 0.0,
+  "seconds": 5661.6,
+  "ok": true,
+  "folder": "/mnt/quant_storage/quant_workspace/lean_workspace_v2/DeribitIntraday/backtests/2026-10-17_09-38-15",
+  "lean": {
+   "Net Profit": "-7.545%",
+   "Compounding Annual Return": "-7.258%",
+   "Drawdown": "8.100%",
+   "Sharpe Ratio": "-2.779",
+   "Probabilistic Sharpe Ratio": "0.001%",
+   "Total Fees": "$9855.11",
+   "Total Orders": "19597",
+   "Win Rate": "70%"
+  },
+  "summary_line": "SUMMARY mode=GAMMA_SCALPING coin=ETH {'cycles': 55, 'hedges': 19379, 'signals': 0, 'skipped': {'no ATM pair': 55}, 'mm_fills': 0, 'arb_trades': 0, 'arb_locked_edge_usd': 0.0, 'stops': 0} fees=9855.11 funding=-1326.76 settlements=108",
+  "errors_in_log": 0,
+  "metrics": {
+   "start_equity": 1000000.0,
+   "end_equity": 924549.0106,
+   "total_return": -0.07545098939999995,
+   "years": 1.0431211498973305,
+   "cagr": -0.07244782902318836,
+   "ann_vol": 0.021378371218551115,
+   "sharpe_excess": -5.219496714642271,
+   "max_drawdown": 0.08128145706527978,
+   "calmar": -0.8913205008739342,
+   "avg_risk_free": 0.03666623036649214,
+   "trading_days": 382
+  }
+ }
+]

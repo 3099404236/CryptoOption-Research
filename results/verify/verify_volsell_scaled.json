@@ -1,0 +1,62 @@
+[
+ {
+  "run": "DeribitVolSell/VOL_SELL/ETH/2020-01-01..2023-12-31/x1.0",
+  "counts": {
+   "option_fills": 36,
+   "market_fills_checked": 36,
+   "settlements": 36
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitVolSell/VOL_SELL/ETH/2024-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 84,
+   "market_fills_checked": 84,
+   "settlements": 84
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 35,
+   "market_fills_checked": 35,
+   "settlements": 35
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0",
+  "counts": {
+   "option_fills": 32,
+   "market_fills_checked": 32,
+   "settlements": 32
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 290,
+   "market_fills_checked": 290,
+   "settlements": 288
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0",
+  "counts": {
+   "option_fills": 516,
+   "market_fills_checked": 516,
+   "settlements": 514
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

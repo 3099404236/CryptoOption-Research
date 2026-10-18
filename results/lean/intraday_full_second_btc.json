@@ -1,0 +1,38 @@
+[
+ {
+  "project": "DeribitIntraday",
+  "strategy": "BUY_AND_HOLD",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "second",
+  "seconds": 11472.2,
+  "ok": true,
+  "folder": "/mnt/quant_storage/quant_workspace/lean_workspace_v2/DeribitIntraday/backtests/2026-10-17_19-39-34",
+  "lean": {
+   "Net Profit": "2120.300%",
+   "Compounding Annual Return": "48.846%",
+   "Drawdown": "77.000%",
+   "Sharpe Ratio": "0.972",
+   "Probabilistic Sharpe Ratio": "24.100%",
+   "Total Fees": "$499.50",
+   "Total Orders": "1",
+   "Win Rate": "0%"
+  },
+  "summary_line": "SUMMARY mode=BUY_AND_HOLD coin=BTC {'cycles': 0, 'hedges': 0, 'signals': 0, 'skipped': {}, 'mm_fills': 0, 'arb_trades': 0, 'arb_locked_edge_usd': 0.0, 'stops': 0} fees=499.5 funding=0.0 settlements=0",
+  "errors_in_log": 1,
+  "metrics": {
+   "start_equity": 1000000.0,
+   "end_equity": 22202995.0557,
+   "total_return": 21.2029950557,
+   "years": 7.79192334017796,
+   "cagr": 0.48866093425022794,
+   "ann_vol": 0.6056783378154958,
+   "sharpe_excess": 0.9154442234817678,
+   "max_drawdown": 0.7703886073706341,
+   "calmar": 0.6343044660512913,
+   "avg_risk_free": 0.027592413066385667,
+   "trading_days": 2847
+  }
+ }
+]

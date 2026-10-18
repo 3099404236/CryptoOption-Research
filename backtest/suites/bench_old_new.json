@@ -1,0 +1,50 @@
+[
+ {
+  "project": "DeribitIntraday",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "AS_MARKET_MAKING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntraday",
+  "strategy": "NBP_FLOW_STRADDLE",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "AS_MARKET_MAKING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "NBP_FLOW_STRADDLE",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ }
+]

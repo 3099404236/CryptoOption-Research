@@ -1,0 +1,13 @@
+DeribitWeekly/SHORT_STRANGLE/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 810, 'market_fills_checked': 810, 'settlements': 808} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 1620, 'market_fills_checked': 1620, 'settlements': 1616} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR_HEDGED/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 1620, 'market_fills_checked': 1620, 'settlements': 1616} VIOLATIONS: none
+DeribitWeekly/BULL_PUT_SPREAD/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 812, 'market_fills_checked': 812, 'settlements': 810} VIOLATIONS: none
+DeribitWeekly/BEAR_CALL_SPREAD/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 814, 'market_fills_checked': 814, 'settlements': 812} VIOLATIONS: none
+DeribitWeekly/CALENDAR_SPREAD/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 917, 'market_fills_checked': 917, 'settlements': 305} VIOLATIONS: none
+DeribitWeekly/CALL_RATIO_SPREAD/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 812, 'market_fills_checked': 812, 'settlements': 810} VIOLATIONS: none
+DeribitWeekly/CALL_RATIO_SPREAD_HEDGED/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 812, 'market_fills_checked': 812, 'settlements': 810} VIOLATIONS: none
+DeribitWeekly/CALL_BUTTERFLY/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 1161, 'market_fills_checked': 1161, 'settlements': 1158} VIOLATIONS: none
+DeribitWeekly/BROKEN_WING_BUTTERFLY/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 1137, 'market_fills_checked': 1137, 'settlements': 1134} VIOLATIONS: none
+DeribitWeekly/LONG_STRADDLE/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 814, 'market_fills_checked': 814, 'settlements': 812} VIOLATIONS: none
+DeribitWeekly/HAR_VRP/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 628, 'market_fills_checked': 628, 'settlements': 626} VIOLATIONS: none
+DeribitWeekly/TREND_SKEWED_CONDOR/BTC/2019-01-01..2026-10-15/x1.0 {'option_fills': 1616, 'market_fills_checked': 1616, 'settlements': 1612} VIOLATIONS: none

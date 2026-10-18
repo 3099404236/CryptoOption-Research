@@ -1,0 +1,78 @@
+
+==================== BTC ====================
+buy & hold: in-sample CAGR +50.3% Sharpe 0.70 maxDD 77% | out-of-sample CAGR +19.2% Sharpe 0.31 maxDD 54%
+
+-- 1D bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar              strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 1D    TSMOM_28d_longflat       True           221.62     0.75       2.00    0.36      0.13        0.26     0.31
+ 1D             TSMOM_28d       True           364.49     0.88       1.82    0.41      0.00       -0.09     0.53
+ 1D    TSMOM_56d_longflat       True           214.82     0.61       1.62    0.36      0.08        0.11     0.45
+ 1D    TSMOM_28d_longflat      False            28.60     0.82       1.60    0.52      0.11        0.19     0.38
+ 1D    TSMOM_14d_longflat       True           223.16     0.58       1.58    0.41      0.30        0.82     0.26
+ 1D    TSMOM_56d_longflat      False            18.08     0.76       1.50    0.47      0.12        0.22     0.46
+ 1D DONCHIAN_20d_longflat       True           179.68     0.49       1.37    0.44      0.09        0.17     0.48
+ 1D    MA_10_50d_longflat       True           201.99     0.51       1.36    0.49      0.11        0.20     0.45
+   chosen on in-sample: TSMOM_28d_longflat voltarget=True -> OUT-OF-SAMPLE CAGR +12.6%, Sharpe 0.26, maxDD 31%; median OOS Sharpe of all 52 variants -0.00
+
+-- 1h bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar              strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 1h    TSMOM_28d_longflat       True          5025.35     0.72       2.13    0.34      0.04       -0.02     0.47
+ 1h             TSMOM_28d       True          8759.49     0.85       1.92    0.43     -0.14       -0.43     0.62
+ 1h    MA_10_50d_longflat       True          4742.69     0.55       1.63    0.44      0.16        0.39     0.42
+ 1h    TSMOM_28d_longflat      False           135.82     0.78       1.53    0.58     -0.01       -0.18     0.50
+ 1h DONCHIAN_20d_longflat       True          3880.98     0.47       1.51    0.38      0.17        0.46     0.36
+ 1h    TSMOM_56d_longflat       True          5027.41     0.51       1.50    0.44      0.16        0.37     0.41
+ 1h    TSMOM_14d_longflat       True          4938.66     0.44       1.33    0.47      0.14        0.33     0.45
+ 1h DONCHIAN_55d_longflat       True          3930.61     0.41       1.31    0.39      0.04       -0.03     0.48
+   chosen on in-sample: TSMOM_28d_longflat voltarget=True -> OUT-OF-SAMPLE CAGR +3.8%, Sharpe -0.02, maxDD 47%; median OOS Sharpe of all 52 variants -0.03
+
+-- 4h bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar              strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 4h    TSMOM_28d_longflat       True          1274.81     0.75       2.17    0.41      0.07        0.10     0.38
+ 4h             TSMOM_28d       True          2189.87     0.87       1.95    0.49     -0.08       -0.29     0.55
+ 4h    TSMOM_56d_longflat       True          1267.24     0.64       1.83    0.38      0.20        0.52     0.38
+ 4h    MA_10_50d_longflat       True          1188.62     0.56       1.63    0.48      0.16        0.36     0.43
+ 4h    TSMOM_28d_longflat      False            69.64     0.83       1.63    0.60      0.02       -0.06     0.47
+ 4h DONCHIAN_20d_longflat       True           975.47     0.52       1.62    0.29      0.14        0.37     0.36
+ 4h DONCHIAN_55d_longflat       True          1013.05     0.51       1.59    0.26      0.00       -0.15     0.50
+ 4h    TSMOM_14d_longflat       True          1265.19     0.53       1.57    0.41      0.20        0.55     0.39
+   chosen on in-sample: TSMOM_28d_longflat voltarget=True -> OUT-OF-SAMPLE CAGR +7.4%, Sharpe 0.10, maxDD 38%; median OOS Sharpe of all 52 variants 0.06
+
+==================== ETH ====================
+buy & hold: in-sample CAGR +92.8% Sharpe 1.02 maxDD 79% | out-of-sample CAGR -1.3% Sharpe -0.08 maxDD 68%
+
+-- 1D bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar            strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 1D TSMOM_112d_longflat       True           212.73     0.60       1.58    0.29      0.08        0.12     0.43
+ 1D  MA_10_50d_longflat       True           204.49     0.52       1.43    0.33      0.16        0.35     0.36
+ 1D   TSMOM_7d_longflat       True           226.56     0.47       1.42    0.33      0.14        0.29     0.35
+ 1D  TSMOM_14d_longflat       True           216.70     0.51       1.41    0.35      0.22        0.57     0.34
+ 1D  TSMOM_14d_longflat      False            42.81     0.93       1.41    0.46      0.21        0.36     0.44
+ 1D  MA_10_50d_longflat      False             8.83     0.96       1.38    0.50      0.22        0.38     0.46
+ 1D  TSMOM_28d_longflat       True           216.70     0.51       1.37    0.34      0.10        0.19     0.36
+ 1D   MA_5_20d_longflat       True           203.91     0.46       1.28    0.35      0.07        0.09     0.36
+   chosen on in-sample: TSMOM_112d_longflat voltarget=True -> OUT-OF-SAMPLE CAGR +7.8%, Sharpe 0.12, maxDD 43%; median OOS Sharpe of all 52 variants -0.01
+
+-- 1h bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar              strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 1h DONCHIAN_20d_longflat      False            12.06     1.02       1.76    0.38      0.04       -0.00     0.51
+ 1h   TSMOM_112d_longflat       True          5047.03     0.57       1.64    0.24      0.06        0.07     0.43
+ 1h DONCHIAN_20d_longflat       True          3828.90     0.51       1.64    0.29      0.08        0.16     0.37
+ 1h    TSMOM_14d_longflat      False           195.52     0.92       1.49    0.44      0.44        0.94     0.42
+ 1h    TSMOM_14d_longflat       True          4814.44     0.47       1.45    0.39      0.34        1.08     0.30
+ 1h   TSMOM_112d_longflat      False            39.87     1.03       1.45    0.60     -0.01       -0.13     0.63
+ 1h    MA_10_50d_longflat       True          4806.50     0.49       1.43    0.34      0.16        0.42     0.36
+ 1h    MA_10_50d_longflat      False             8.83     0.90       1.34    0.57      0.23        0.45     0.46
+   chosen on in-sample: DONCHIAN_20d_longflat voltarget=False -> OUT-OF-SAMPLE CAGR +4.3%, Sharpe -0.00, maxDD 51%; median OOS Sharpe of all 52 variants 0.07
+
+-- 4h bars: top 8 by IN-SAMPLE Sharpe (of 52)
+bar              strategy  voltarget  trades_per_year  is_cagr  is_sharpe  is_mdd  oos_cagr  oos_sharpe  oos_mdd
+ 4h DONCHIAN_20d_longflat      False            11.48     1.03       1.80    0.39      0.06        0.06     0.52
+ 4h DONCHIAN_20d_longflat       True           926.11     0.49       1.61    0.28      0.05        0.03     0.40
+ 4h   TSMOM_112d_longflat       True          1266.98     0.56       1.59    0.24      0.06        0.04     0.44
+ 4h   TSMOM_112d_longflat      False            20.16     1.02       1.45    0.59     -0.01       -0.11     0.63
+ 4h    MA_10_50d_longflat       True          1205.49     0.47       1.35    0.35      0.14        0.34     0.37
+ 4h    MA_10_50d_longflat      False             8.83     0.89       1.34    0.56      0.23        0.45     0.44
+ 4h     MA_5_20d_longflat       True          1162.82     0.44       1.32    0.36      0.04       -0.02     0.41
+ 4h     TSMOM_7d_longflat       True          1251.39     0.40       1.25    0.34      0.13        0.29     0.38
+   chosen on in-sample: DONCHIAN_20d_longflat voltarget=False -> OUT-OF-SAMPLE CAGR +6.4%, Sharpe 0.06, maxDD 52%; median OOS Sharpe of all 52 variants 0.12

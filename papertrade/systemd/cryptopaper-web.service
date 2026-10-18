@@ -1,0 +1,25 @@
+[Unit]
+Description=Crypto paper trader - public read-only dashboard on port 18090 (serves /opt/cryptopaper/public only)
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/python3 /opt/cryptopaper/papertrader.py web
+Environment=PAPER_PUBLIC=/opt/cryptopaper/public PAPER_PORT=18090 PAPER_HOST=0.0.0.0
+DynamicUser=yes
+NoNewPrivileges=yes
+PrivateDevices=yes
+ProtectKernelTunables=yes
+ProtectKernelModules=yes
+ProtectControlGroups=yes
+CapabilityBoundingSet=
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+LockPersonality=yes
+RestrictRealtime=yes
+MemoryMax=150M
+TasksMax=64
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

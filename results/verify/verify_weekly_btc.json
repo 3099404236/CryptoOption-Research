@@ -1,0 +1,132 @@
+[
+ {
+  "run": "DeribitWeekly/SHORT_STRANGLE/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 810,
+   "market_fills_checked": 810,
+   "settlements": 808
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/IRON_CONDOR/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1620,
+   "market_fills_checked": 1620,
+   "settlements": 1616
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/IRON_CONDOR_HEDGED/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1620,
+   "market_fills_checked": 1620,
+   "settlements": 1616
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/BULL_PUT_SPREAD/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 812,
+   "market_fills_checked": 812,
+   "settlements": 810
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/BEAR_CALL_SPREAD/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 814,
+   "market_fills_checked": 814,
+   "settlements": 812
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/CALENDAR_SPREAD/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 917,
+   "market_fills_checked": 917,
+   "settlements": 305
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/CALL_RATIO_SPREAD/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 812,
+   "market_fills_checked": 812,
+   "settlements": 810
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/CALL_RATIO_SPREAD_HEDGED/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 812,
+   "market_fills_checked": 812,
+   "settlements": 810
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/CALL_BUTTERFLY/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1161,
+   "market_fills_checked": 1161,
+   "settlements": 1158
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/BROKEN_WING_BUTTERFLY/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1137,
+   "market_fills_checked": 1137,
+   "settlements": 1134
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/LONG_STRADDLE/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 814,
+   "market_fills_checked": 814,
+   "settlements": 812
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/HAR_VRP/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 628,
+   "market_fills_checked": 628,
+   "settlements": 626
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitWeekly/TREND_SKEWED_CONDOR/BTC/2019-01-01..2026-10-15/x1.0",
+  "counts": {
+   "option_fills": 1616,
+   "market_fills_checked": 1616,
+   "settlements": 1612
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

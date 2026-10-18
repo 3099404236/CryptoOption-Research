@@ -1,0 +1,5 @@
+ETH: OLS(60 s) fitted on in-sample; trade when |forecast| >= 1.47 bp (in-sample 99th pct)
+  in-sample    : signals 49548, maker fills 34915 (70%), maker net -8.20 bp/trade (t -41.07) | taker net -9.35 bp/trade (t -58.32)
+     maker net per year (bp/trade): 2020:-11.7 2021:-7.2 2022:-6.9 2023:-6.2
+  out-of-sample: signals 4853, maker fills 3977 (82%), maker net -6.13 bp/trade (t -8.57) | taker net -8.48 bp/trade (t -13.35)
+     maker net per year (bp/trade): 2024:-5.9 2025:-6.4 2026:-5.9

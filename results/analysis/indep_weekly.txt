@@ -1,0 +1,39 @@
+
+### BTC all years: 406 weeks
+ATM IV mean 59.4%  realized mean 62.1%  IV>RV in 57% of weeks  mean(IV^2-RV^2) -0.1077
+leg           n  prem%S  pnl@mark%S      t  capture  pnl@bid%S  capture
+P07         308  0.248%     0.0350%   0.39    14.1%    0.0302%    12.2%
+P20         331  0.772%     0.0966%   0.70    12.5%    0.1026%    13.3%
+P35         307  1.603%     0.3148%   1.61    19.6%    0.3213%    20.0%
+C07         309  0.213%     0.0223%   0.30    10.4%    0.0107%     5.0%
+C20         345  0.676%    -0.0588%  -0.45    -8.7%   -0.0871%   -12.9%
+C35         317  1.418%    -0.1330%  -0.74    -9.4%   -0.1632%   -11.5%
+STRADDLE    226  4.949%    -0.2142%  -0.66    -4.3%   -0.2743%    -5.5%
+STRANGLE20  292  1.451%     0.1041%   0.53     7.2%    0.0849%     5.9%
+  2019: weeks  52  ATM IV 71% RV 67%  strangle20 pnl@mark/wk +0.755%  straddle pnl@mark/wk +1.345%
+  2020: weeks  52  ATM IV 60% RV 71%  strangle20 pnl@mark/wk -0.779%  straddle pnl@mark/wk -1.833%
+  2021: weeks  52  ATM IV 86% RV 93%  strangle20 pnl@mark/wk +0.369%  straddle pnl@mark/wk +0.633%
+  2022: weeks  52  ATM IV 65% RV 67%  strangle20 pnl@mark/wk +0.581%  straddle pnl@mark/wk +1.042%
+  2023: weeks  52  ATM IV 45% RV 48%  strangle20 pnl@mark/wk -0.267%  straddle pnl@mark/wk -0.299%
+  2024: weeks  53  ATM IV 58% RV 57%  strangle20 pnl@mark/wk +0.287%  straddle pnl@mark/wk +0.328%
+  2025: weeks  52  ATM IV 46% RV 46%  strangle20 pnl@mark/wk -0.132%  straddle pnl@mark/wk -0.322%
+  2026: weeks  41  ATM IV 42% RV 45%  strangle20 pnl@mark/wk -0.344%  straddle pnl@mark/wk -0.835%
+
+### ETH all years: 354 weeks
+ATM IV mean 71.6%  realized mean 78.6%  IV>RV in 48% of weeks  mean(IV^2-RV^2) -0.2286
+leg           n  prem%S  pnl@mark%S      t  capture  pnl@bid%S  capture
+P07         265  0.312%     0.0108%   0.10     3.5%    0.0035%     1.1%
+P20         277  0.909%    -0.0130%  -0.07    -1.4%   -0.0209%    -2.3%
+P35         262  1.884%     0.1864%   0.86     9.9%    0.1855%     9.8%
+C07         250  0.262%    -0.0013%  -0.01    -0.5%   -0.0150%    -5.7%
+C20         277  0.832%    -0.0365%  -0.22    -4.4%   -0.0530%    -6.4%
+C35         267  1.691%     0.0157%   0.08     0.9%   -0.0027%    -0.2%
+STRADDLE    158  6.107%     0.1404%   0.35     2.3%    0.0604%     1.0%
+STRANGLE20  225  1.740%    -0.0791%  -0.30    -4.5%   -0.1107%    -6.4%
+  2020: weeks  52  ATM IV 74% RV 90%  strangle20 pnl@mark/wk -0.919%  straddle pnl@mark/wk -1.647%
+  2021: weeks  52  ATM IV 100% RV 118%  strangle20 pnl@mark/wk +0.728%  straddle pnl@mark/wk -0.046%
+  2022: weeks  52  ATM IV 83% RV 88%  strangle20 pnl@mark/wk +0.399%  straddle pnl@mark/wk +0.700%
+  2023: weeks  52  ATM IV 48% RV 50%  strangle20 pnl@mark/wk +0.188%  straddle pnl@mark/wk -0.113%
+  2024: weeks  53  ATM IV 66% RV 67%  strangle20 pnl@mark/wk -0.334%  straddle pnl@mark/wk -0.393%
+  2025: weeks  52  ATM IV 72% RV 74%  strangle20 pnl@mark/wk -0.511%  straddle pnl@mark/wk -0.678%
+  2026: weeks  41  ATM IV 56% RV 60%  strangle20 pnl@mark/wk -0.309%  straddle pnl@mark/wk -0.439%

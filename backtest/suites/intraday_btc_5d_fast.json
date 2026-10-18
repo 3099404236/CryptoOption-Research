@@ -1,0 +1,92 @@
+[
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "SABR_DELTA_HEDGED_STRANGLE",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "SHORT_STRANGLE_STOP_HEDGE",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "AS_MARKET_MAKING",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "NBP_FLOW_STRADDLE",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "POST_SPIKE_PREMIUM_SELL",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "PARITY_CONVERSION_ARB",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "TREND_RATIO_SPREAD_STOP",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "TREND_BUTTERFLY",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ },
+ {
+  "project": "DeribitIntradayFast",
+  "strategy": "BUY_AND_HOLD",
+  "coin": "BTC",
+  "start": "2026-10-11",
+  "end": "2026-10-16",
+  "res": "second",
+  "last_entry": "2026-10-16 08:00"
+ }
+]

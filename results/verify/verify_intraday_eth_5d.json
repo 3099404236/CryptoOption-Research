@@ -1,0 +1,96 @@
+[
+ {
+  "run": "DeribitIntraday/GAMMA_SCALPING/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SABR_DELTA_HEDGED_STRANGLE/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/SHORT_STRANGLE_STOP_HEDGE/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/AS_MARKET_MAKING/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 103,
+   "mm_fills": 103,
+   "settlements": 7
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/NBP_FLOW_STRADDLE/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 12,
+   "market_fills_checked": 12
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/POST_SPIKE_PREMIUM_SELL/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 20,
+   "market_fills_checked": 20
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/PARITY_CONVERSION_ARB/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_RATIO_SPREAD_STOP/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 2,
+   "market_fills_checked": 2,
+   "settlements": 2
+  },
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/BUY_AND_HOLD/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {},
+  "violations": {},
+  "examples": {}
+ },
+ {
+  "run": "DeribitIntraday/TREND_BUTTERFLY/ETH/2026-10-11..2026-10-16/x1.0",
+  "counts": {
+   "option_fills": 3,
+   "market_fills_checked": 3,
+   "settlements": 3
+  },
+  "violations": {},
+  "examples": {}
+ }
+]

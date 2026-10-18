@@ -1,0 +1,30 @@
+
+=== BTC funding carry (return on capital) ===
+year     always  trailing  days on  T-bill
+2019     +8.02%    +7.04%      150    2.1%
+2020     +7.72%    +9.96%      281    0.4%
+2021    +13.75%   +13.00%      291    0.1%
+2022     -1.89%    -0.84%      162    1.7%
+2023     +5.73%    +4.78%      319    5.0%
+2024     +8.59%    +8.04%      333    5.1%
+2025     +4.49%    +3.31%      310    4.2%
+2026     +1.43%    -0.13%      229    3.6%
+  always   in-sample 2019-23     : +7.13%/yr, vol 1.22%, Sharpe (raw) 5.82, max drawdown 3.32%
+  always   out-of-sample 2024-26 : +5.19%/yr, vol 0.45%, Sharpe (raw) 11.62, max drawdown 0.30%
+  trailing in-sample 2019-23     : +7.26%/yr, vol 1.05%, Sharpe (raw) 6.95, max drawdown 1.07%
+  trailing out-of-sample 2024-26 : +4.01%/yr, vol 0.61%, Sharpe (raw) 6.54, max drawdown 1.59%
+
+=== ETH funding carry (return on capital) ===
+year     always  trailing  days on  T-bill
+2019     +5.37%    +7.49%      125    2.1%
+2020     +5.23%    +8.31%      234    0.4%
+2021    +14.42%   +14.14%      267    0.1%
+2022     -5.06%    -1.16%      142    1.7%
+2023     +6.60%    +5.11%      325    5.0%
+2024     +7.01%    +6.58%      308    5.1%
+2025     +0.82%    -1.11%      197    4.2%
+2026     +0.95%    -0.70%      201    3.6%
+  always   in-sample 2019-23     : +5.68%/yr, vol 1.50%, Sharpe (raw) 3.78, max drawdown 5.58%
+  always   out-of-sample 2024-26 : +3.14%/yr, vol 0.41%, Sharpe (raw) 7.72, max drawdown 0.63%
+  trailing in-sample 2019-23     : +7.25%/yr, vol 1.24%, Sharpe (raw) 5.83, max drawdown 2.40%
+  trailing out-of-sample 2024-26 : +1.71%/yr, vol 0.61%, Sharpe (raw) 2.80, max drawdown 3.03%

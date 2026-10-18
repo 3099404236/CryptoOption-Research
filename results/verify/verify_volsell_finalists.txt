@@ -1,0 +1,14 @@
+DeribitVolSell/VOL_SELL/ETH/2020-01-01..2023-12-31/x1.0 {'option_fills': 36, 'market_fills_checked': 36, 'settlements': 36} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/ETH/2020-01-01..2023-12-31/x1.0 {'option_fills': 36, 'market_fills_checked': 36, 'settlements': 36} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/ETH/2024-01-01..2026-10-15/x1.0 {'option_fills': 84, 'market_fills_checked': 84, 'settlements': 84} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/ETH/2024-01-01..2026-10-15/x1.0 {'option_fills': 84, 'market_fills_checked': 84, 'settlements': 84} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0 {'option_fills': 32, 'market_fills_checked': 32, 'settlements': 32} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0 {'option_fills': 35, 'market_fills_checked': 35, 'settlements': 35} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0 {'option_fills': 32, 'market_fills_checked': 32, 'settlements': 32} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0 {'option_fills': 33, 'market_fills_checked': 33, 'settlements': 32} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0 {'option_fills': 144, 'market_fills_checked': 144, 'settlements': 143} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2024-01-01..2026-10-15/x1.0 {'option_fills': 290, 'market_fills_checked': 290, 'settlements': 288} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0 {'option_fills': 239, 'market_fills_checked': 239, 'settlements': 238} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/BTC/2019-01-01..2023-12-31/x1.0 {'option_fills': 516, 'market_fills_checked': 516, 'settlements': 514} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/ETH/2024-01-01..2026-10-15/x1.0 {'option_fills': 290, 'market_fills_checked': 290, 'settlements': 288} VIOLATIONS: none
+DeribitVolSell/VOL_SELL/ETH/2020-01-01..2023-12-31/x1.0 {'option_fills': 416, 'market_fills_checked': 416, 'settlements': 414} VIOLATIONS: none

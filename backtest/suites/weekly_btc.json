@@ -1,0 +1,106 @@
+[
+ {
+  "project": "DeribitWeekly",
+  "strategy": "SHORT_STRANGLE",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "IRON_CONDOR",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "IRON_CONDOR_HEDGED",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "BULL_PUT_SPREAD",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "BEAR_CALL_SPREAD",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "CALENDAR_SPREAD",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "CALL_RATIO_SPREAD",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "CALL_RATIO_SPREAD_HEDGED",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "CALL_BUTTERFLY",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "BROKEN_WING_BUTTERFLY",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "LONG_STRADDLE",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "HAR_VRP",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ },
+ {
+  "project": "DeribitWeekly",
+  "strategy": "TREND_SKEWED_CONDOR",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ }
+]

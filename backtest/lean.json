@@ -1,0 +1,9 @@
+{
+    "data-folder": "data",
+    "engine-image": "quantconnect/lean:latest",
+    "default-language": "python",
+    "job-organization-id": "local",
+    "data-provider": "QuantConnect.Lean.Engine.DataFeeds.DefaultDataProvider",
+    "id": "Local",
+    "file-database-last-update": "10/17/2026 02:57:08"
+}

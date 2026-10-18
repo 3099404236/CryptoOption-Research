@@ -1,0 +1,25 @@
+ETH: 20,468,250 samples from ['/mnt/quant_storage/quant_workspace/lean_workspace_v2/results/analysis/hf_ETH_2020-2023.parquet', '/mnt/quant_storage/quant_workspace/lean_workspace_v2/results/analysis/hf_ETH_2024-2026.parquet']
+
+-- slippage 0 bp per side (round trip 10 bp)
+  JUMP  in-sample    : 25483 trades, mean net -9.18 bp/trade (t -20.59), total -2340.5% of notional | per year trades/total: 2020:6292/-563.7% 2021:7666/-700.9% 2022:6976/-605.8% 2023:4549/-470.1%
+  JUMP  out-of-sample: 17139 trades, mean net -10.21 bp/trade (t -27.43), total -1750.0% of notional | per year trades/total: 2024:6522/-638.0% 2025:6191/-643.8% 2026:4426/-468.2%
+  BASIS in-sample    : 53047 trades, mean net -8.84 bp/trade (t -38.19), total -4689.4% of notional | per year trades/total: 2020:12873/-1075.9% 2021:13588/-1216.5% 2022:15046/-1391.9% 2023:11540/-1005.2%
+  BASIS out-of-sample: 23948 trades, mean net -9.08 bp/trade (t -35.39), total -2175.6% of notional | per year trades/total: 2024:10433/-962.3% 2025:8231/-727.6% 2026:5284/-485.7%
+  OLS   in-sample    : 257 trades, mean net +28.07 bp/trade (t +1.31), total +72.1% of notional | per year trades/total: 2020:151/+43.8% 2021:71/+21.4% 2022:30/+3.1% 2023:5/+3.8%
+  OLS   out-of-sample: 71 trades, mean net +25.41 bp/trade (t +1.18), total +18.0% of notional | per year trades/total: 2024:17/+20.1% 2025:50/-5.0% 2026:4/+2.9%
+
+-- slippage 1 bp per side (round trip 12 bp)
+  JUMP  in-sample    : 25483 trades, mean net -11.18 bp/trade (t -25.07), total -2850.1% of notional | per year trades/total: 2020:6292/-689.6% 2021:7666/-854.2% 2022:6976/-745.3% 2023:4549/-561.1%
+  JUMP  out-of-sample: 17139 trades, mean net -12.21 bp/trade (t -32.81), total -2092.8% of notional | per year trades/total: 2024:6522/-768.4% 2025:6191/-767.6% 2026:4426/-556.8%
+  BASIS in-sample    : 53047 trades, mean net -10.84 bp/trade (t -46.83), total -5750.3% of notional | per year trades/total: 2020:12873/-1333.3% 2021:13588/-1488.2% 2022:15046/-1692.8% 2023:11540/-1236.0%
+  BASIS out-of-sample: 23948 trades, mean net -11.08 bp/trade (t -43.19), total -2654.6% of notional | per year trades/total: 2024:10433/-1171.0% 2025:8231/-892.2% 2026:5284/-591.3%
+  OLS   in-sample    : 203 trades, mean net +32.14 bp/trade (t +1.26), total +65.2% of notional | per year trades/total: 2020:127/+39.2% 2021:55/+18.5% 2022:17/+5.3% 2023:4/+2.2%
+  OLS   out-of-sample: 63 trades, mean net +19.89 bp/trade (t +0.82), total +12.5% of notional | per year trades/total: 2024:13/+9.7% 2025:47/+1.0% 2026:3/+1.8%
+
+-- slippage 2 bp per side (round trip 14 bp)
+  JUMP  in-sample    : 25483 trades, mean net -13.18 bp/trade (t -29.56), total -3359.8% of notional | per year trades/total: 2020:6292/-815.4% 2021:7666/-1007.5% 2022:6976/-884.8% 2023:4549/-652.0%
+  JUMP  out-of-sample: 17139 trades, mean net -14.21 bp/trade (t -38.18), total -2435.6% of notional | per year trades/total: 2024:6522/-898.9% 2025:6191/-891.4% 2026:4426/-645.3%
+  BASIS in-sample    : 53047 trades, mean net -12.84 bp/trade (t -55.47), total -6811.3% of notional | per year trades/total: 2020:12873/-1590.8% 2021:13588/-1760.0% 2022:15046/-1993.7% 2023:11540/-1466.8%
+  BASIS out-of-sample: 23948 trades, mean net -13.08 bp/trade (t -50.98), total -3133.5% of notional | per year trades/total: 2024:10433/-1379.7% 2025:8231/-1056.9% 2026:5284/-697.0%
+  OLS   in-sample    : 157 trades, mean net +50.08 bp/trade (t +1.46), total +78.6% of notional | per year trades/total: 2020:112/+35.4% 2021:35/+29.6% 2022:7/+12.3% 2023:3/+1.3%
+  OLS   out-of-sample: 56 trades, mean net +24.47 bp/trade (t +0.91), total +13.7% of notional | per year trades/total: 2024:10/+9.0% 2025:44/+2.5% 2026:2/+2.2%

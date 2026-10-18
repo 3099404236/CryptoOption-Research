@@ -1,0 +1,45 @@
+
+=== weekly_btc
+strategy                      fills matched  LEAN-real $  LEAN-mark $ median rel  mean rel  LEAN pnl $
+SHORT_STRANGLE                  810     684       -1,331      -27,354      1.01%     1.40%     -81,752
+IRON_CONDOR                    1620    1134        9,462      -36,045      0.65%     1.05%    -178,878
+IRON_CONDOR_HEDGED             1620    1134        9,281      -37,674      0.65%     1.05%    -145,114
+BULL_PUT_SPREAD                 812     597        4,575      -36,537     -0.36%    -1.10%     -19,508
+BEAR_CALL_SPREAD                814     599       13,091      -15,477      1.18%     2.10%    -116,518
+CALENDAR_SPREAD                 917     594      -12,932     -102,840      0.39%     0.86%    -148,535
+CALL_RATIO_SPREAD               812     653      -34,496      -81,263      2.66%     3.47%    -125,613
+CALL_RATIO_SPREAD_HEDGED        812     653      -34,220      -80,647      2.66%     3.47%    -132,129
+CALL_BUTTERFLY                 1161     887      -18,065      -79,520      1.74%     2.65%    -147,193
+BROKEN_WING_BUTTERFLY          1137     798      -22,278      -82,552      2.59%     3.05%    -133,208
+LONG_STRADDLE                   814     608      -43,403      -85,279      2.26%     2.64%    -224,842
+HAR_VRP                         628     489      -29,662      -61,070      2.14%     2.55%     256,685
+TREND_SKEWED_CONDOR            1616    1104        4,678      -45,422      0.27%     1.02%    -119,975
+
+=== weekly_eth
+strategy                      fills matched  LEAN-real $  LEAN-mark $ median rel  mean rel  LEAN pnl $
+SHORT_STRANGLE                  704     547          156      -28,008      1.23%     1.48%     -97,677
+IRON_CONDOR                    1404     937        6,905      -31,685      0.66%     0.58%    -218,625
+IRON_CONDOR_HEDGED             1404     937        7,040      -31,276      0.66%     0.58%    -205,832
+BULL_PUT_SPREAD                 698     495        3,560      -18,460     -0.44%    -0.11%     -59,368
+BEAR_CALL_SPREAD                704     508        7,249      -12,147      1.46%     2.37%    -126,392
+CALL_RATIO_SPREAD               702     529      -18,003      -78,369      1.89%     3.23%      -7,479
+CALENDAR_SPREAD                 821     466      -16,333     -125,263      0.58%     1.60%    -301,929
+CALL_RATIO_SPREAD_HEDGED        702     529      -12,032      -67,707      1.89%     3.23%    -110,058
+CALL_BUTTERFLY                 1002     731      -14,847      -60,520      2.00%     3.16%    -168,406
+BROKEN_WING_BUTTERFLY          1002     704      -18,098      -51,033      1.79%     2.92%    -233,080
+LONG_STRADDLE                   710     484      -46,770      -83,905      1.73%     2.79%    -123,003
+HAR_VRP                         564     372      -11,993      -55,896      1.55%     1.55%      71,541
+TREND_SKEWED_CONDOR            1388     899        5,313      -32,877      0.02%     0.58%    -221,985
+
+=== intraday_eth_1y
+strategy                      fills matched  LEAN-real $  LEAN-mark $ median rel  mean rel  LEAN pnl $
+SABR_DELTA_HEDGED_STRANGLE      110     104        8,762       -1,038      4.51%     4.85%     -30,909
+SHORT_STRANGLE_STOP_HEDGE       110     104        8,147         -952      4.51%     4.85%    -190,606
+NBP_FLOW_STRADDLE              1388     673      -69,539     -135,970      0.62%     1.64%    -258,592
+GAMMA_SCALPING                  110      96      -13,339      -19,558      1.84%     2.36%    -191,379
+POST_SPIKE_PREMIUM_SELL        1844    1163     -109,803      -99,222     -0.88%    -0.41%    -273,453
+TREND_RATIO_SPREAD_STOP         140     114      -26,379      -34,587      2.46%     3.79%     -60,045
+TREND_BUTTERFLY                 165     139        6,058      -15,501      3.45%     3.88%     -26,758
+BUY_AND_HOLD                      0       0            0            0       nan%      nan%    -411,709
+PARITY_CONVERSION_ARB            18      17       19,360       17,438      7.16%    15.15%       7,250
+AS_MARKET_MAKING              13586   11417      -45,408     -133,949      0.61%     5.20%    -244,351

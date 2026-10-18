@@ -1,0 +1,34 @@
+[
+ {
+  "project": "DeribitIntradayFast4",
+  "strategy": "GAMMA_SCALPING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast4",
+  "strategy": "AS_MARKET_MAKING",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast4",
+  "strategy": "NBP_FLOW_STRADDLE",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ },
+ {
+  "project": "DeribitIntradayFast4",
+  "strategy": "SABR_DELTA_HEDGED_STRANGLE",
+  "coin": "ETH",
+  "start": "2021-03-01",
+  "end": "2021-03-31",
+  "res": "second"
+ }
+]

@@ -1,0 +1,4 @@
+BTC in-sample 2019-23: IV Fri 62.1% -> Mon 66.5% | short Fri->Mon unhedged -0.000%/wk (t -0.00, n 208), hedged -0.189%/wk (t -1.35, n 208) | held to expiry +0.679%/wk (t +1.57, n 208)
+BTC out-of-sample 2024-26: IV Fri 44.2% -> Mon 50.4% | short Fri->Mon unhedged -0.413%/wk (t -2.26, n 109), hedged -0.314%/wk (t -3.31, n 109) | held to expiry +0.508%/wk (t +1.30, n 109)
+ETH in-sample 2019-23: IV Fri 69.9% -> Mon 74.3% | short Fri->Mon unhedged -0.123%/wk (t -0.49, n 136), hedged -0.282%/wk (t -1.45, n 136) | held to expiry +0.174%/wk (t +0.32, n 136)
+ETH out-of-sample 2024-26: IV Fri 60.7% -> Mon 68.4% | short Fri->Mon unhedged -0.464%/wk (t -1.83, n 96), hedged -0.537%/wk (t -2.65, n 96) | held to expiry +0.302%/wk (t +0.50, n 96)

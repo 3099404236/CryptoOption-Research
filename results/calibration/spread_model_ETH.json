@@ -1,0 +1,212 @@
+{
+ "currency": "ETH",
+ "source": "Deribit live order books (median quoted half-spread)",
+ "snapshots": [
+  "live_quotes_ETH_20261016T1950.json",
+  "live_quotes_ETH_20261016T1955.json",
+  "live_quotes_ETH_20261016T1959.json"
+ ],
+ "applies_to": "all years (coin units)",
+ "otm_buckets": [
+  "ITM>3%",
+  "ITM1-3%",
+  "ATM",
+  "OTM1-3%",
+  "OTM3-6%",
+  "OTM6-10%",
+  "OTM10-20%",
+  "OTM>20%"
+ ],
+ "dte_buckets": [
+  "<1d",
+  "1-3d",
+  "3-8d",
+  "8-21d",
+  ">21d"
+ ],
+ "table": {
+  "all": {
+   "ITM>3%": {
+    "<1d": {
+     "half_spread": 0.0032499999999999994,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0030000000000000027,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.003250000000000001,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0020000000000000018,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0051250000000000046,
+     "snapshots": 3
+    }
+   },
+   "ITM1-3%": {
+    "<1d": {
+     "half_spread": 0.0025000000000000005,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0014999999999999996,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.001,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0008749999999999973,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0007500000000000007,
+     "snapshots": 3
+    }
+   },
+   "ATM": {
+    "<1d": {
+     "half_spread": 0.0004999999999999999,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0005,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0013749999999999943,
+     "snapshots": 3
+    }
+   },
+   "OTM1-3%": {
+    "<1d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.00015000000000000001,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0002500000000000002,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    }
+   },
+   "OTM3-6%": {
+    "<1d": {
+     "half_spread": 0.0001,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0001,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.00014999999999999996,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    }
+   },
+   "OTM6-10%": {
+    "1-3d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.00014999999999999996,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   },
+   "OTM10-20%": {
+    "1-3d": {
+     "half_spread": 9.999999999999996e-05,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0001,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0002499999999999998,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999996e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   },
+   "OTM>20%": {
+    "8-21d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    },
+    "1-3d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    },
+    "3-8d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+DeribitWeekly/SHORT_STRANGLE/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 704, 'market_fills_checked': 704, 'settlements': 702} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 1404, 'market_fills_checked': 1404, 'settlements': 1400} VIOLATIONS: none
+DeribitWeekly/IRON_CONDOR_HEDGED/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 1404, 'market_fills_checked': 1404, 'settlements': 1400} VIOLATIONS: none
+DeribitWeekly/BULL_PUT_SPREAD/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 698, 'market_fills_checked': 698, 'settlements': 696} VIOLATIONS: none
+DeribitWeekly/BEAR_CALL_SPREAD/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 704, 'market_fills_checked': 704, 'settlements': 702} VIOLATIONS: none
+DeribitWeekly/CALL_RATIO_SPREAD/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 702, 'market_fills_checked': 702, 'settlements': 700} VIOLATIONS: none
+DeribitWeekly/CALENDAR_SPREAD/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 821, 'market_fills_checked': 821, 'settlements': 273} VIOLATIONS: none
+DeribitWeekly/CALL_RATIO_SPREAD_HEDGED/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 702, 'market_fills_checked': 702, 'settlements': 700} VIOLATIONS: none
+DeribitWeekly/CALL_BUTTERFLY/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 1002, 'market_fills_checked': 1002, 'settlements': 999} VIOLATIONS: none
+DeribitWeekly/BROKEN_WING_BUTTERFLY/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 1002, 'market_fills_checked': 1002, 'settlements': 999} VIOLATIONS: none
+DeribitWeekly/LONG_STRADDLE/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 710, 'market_fills_checked': 710, 'settlements': 708} VIOLATIONS: none
+DeribitWeekly/HAR_VRP/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 564, 'market_fills_checked': 564, 'settlements': 562} VIOLATIONS: none
+DeribitWeekly/TREND_SKEWED_CONDOR/ETH/2020-01-01..2026-10-15/x1.0 {'option_fills': 1388, 'market_fills_checked': 1388, 'settlements': 1384} VIOLATIONS: none

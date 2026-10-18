@@ -1,0 +1,10 @@
+[
+ {
+  "project": "DeribitWeekly",
+  "strategy": "SHORT_STRANGLE",
+  "coin": "BTC",
+  "start": "2019-01-01",
+  "end": "2026-10-15",
+  "res": "minute"
+ }
+]

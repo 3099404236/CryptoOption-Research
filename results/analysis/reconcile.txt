@@ -1,0 +1,25 @@
+
+=== BTC SHORT_STRANGLE: LEAN weeks 405, gross cash $-21,239
+common weeks 292: LEAN mean +0.058%/wk  independent(bid) mean +0.085%/wk  corr 0.99
+   LEAN gross $ on common weeks 36,556; independent at LEAN size $49,562
+LEAN-only weeks (no clean 0.20-delta prints Mon 09:30-11:30) 113: LEAN gross $-57,796
+  2019: LEAN gross $    44,532  avg coins  24.8  common 19 wks LEAN +1.338% vs indep +1.257%
+  2020: LEAN gross $  -106,801  avg coins  22.5  common 35 wks LEAN -0.651% vs indep -0.556%
+  2021: LEAN gross $    37,614  avg coins   5.1  common 40 wks LEAN +0.283% vs indep +0.340%
+  2022: LEAN gross $    70,479  avg coins   9.9  common 42 wks LEAN +0.507% vs indep +0.539%
+  2023: LEAN gross $   -36,599  avg coins   8.8  common 45 wks LEAN -0.254% vs indep -0.252%
+  2024: LEAN gross $    29,496  avg coins   3.9  common 42 wks LEAN +0.414% vs indep +0.375%
+  2025: LEAN gross $   -25,425  avg coins   2.4  common 40 wks LEAN -0.341% vs indep -0.277%
+  2026: LEAN gross $   -34,535  avg coins   3.2  common 29 wks LEAN -0.368% vs indep -0.317%
+
+=== ETH SHORT_STRANGLE: LEAN weeks 352, gross cash $-42,227
+common weeks 225: LEAN mean -0.073%/wk  independent(bid) mean -0.111%/wk  corr 0.99
+   LEAN gross $ on common weeks 19,539; independent at LEAN size $-890
+LEAN-only weeks (no clean 0.20-delta prints Mon 09:30-11:30) 127: LEAN gross $-61,766
+  2020: LEAN gross $   -17,704  avg coins 399.7  common  9 wks LEAN -3.958% vs indep -4.014%
+  2021: LEAN gross $    63,798  avg coins 110.0  common 31 wks LEAN +0.540% vs indep +0.510%
+  2022: LEAN gross $    63,443  avg coins 152.6  common 43 wks LEAN +0.359% vs indep +0.257%
+  2023: LEAN gross $     3,638  avg coins 154.0  common 40 wks LEAN +0.008% vs indep +0.048%
+  2024: LEAN gross $   -58,835  avg coins  88.4  common 39 wks LEAN -0.232% vs indep -0.175%
+  2025: LEAN gross $   -74,512  avg coins  87.1  common 39 wks LEAN -0.349% vs indep -0.423%
+  2026: LEAN gross $   -22,055  avg coins 107.7  common 24 wks LEAN +0.391% vs indep +0.240%

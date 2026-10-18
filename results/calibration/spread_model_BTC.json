@@ -1,0 +1,213 @@
+{
+ "currency": "BTC",
+ "source": "Deribit live order books (median quoted half-spread)",
+ "snapshots": [
+  "live_quotes_BTC_20261016T1950.json",
+  "live_quotes_BTC_20261016T1955.json",
+  "live_quotes_BTC_20261016T1959.json"
+ ],
+ "applies_to": "all years (coin units)",
+ "otm_buckets": [
+  "ITM>3%",
+  "ITM1-3%",
+  "ATM",
+  "OTM1-3%",
+  "OTM3-6%",
+  "OTM6-10%",
+  "OTM10-20%",
+  "OTM>20%"
+ ],
+ "dte_buckets": [
+  "<1d",
+  "1-3d",
+  "3-8d",
+  "8-21d",
+  ">21d"
+ ],
+ "table": {
+  "all": {
+   "ITM>3%": {
+    "<1d": {
+     "half_spread": 0.0024999999999999988,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.002374999999999995,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0024999999999999953,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0020000000000000018,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0020000000000000018,
+     "snapshots": 3
+    }
+   },
+   "ITM1-3%": {
+    "<1d": {
+     "half_spread": 0.0023749999999999995,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0023749999999999995,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0010000000000000009,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0007500000000000007,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0007500000000000007,
+     "snapshots": 3
+    }
+   },
+   "ATM": {
+    "<1d": {
+     "half_spread": 0.00027499999999999996,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.0003750000000000001,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0007500000000000007,
+     "snapshots": 3
+    }
+   },
+   "OTM1-3%": {
+    "<1d": {
+     "half_spread": 7.500000000000002e-05,
+     "snapshots": 3
+    },
+    "1-3d": {
+     "half_spread": 0.000125,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.0002499999999999998,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    }
+   },
+   "OTM3-6%": {
+    "1-3d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.00014999999999999996,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0002500000000000002,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   },
+   "OTM6-10%": {
+    "1-3d": {
+     "half_spread": 9.999999999999996e-05,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 0.00010000000000000005,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.0002500000000000002,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0004999999999999996,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999996e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   },
+   "OTM10-20%": {
+    "1-3d": {
+     "half_spread": 5.000000000000002e-05,
+     "snapshots": 3
+    },
+    "3-8d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    "8-21d": {
+     "half_spread": 0.00010000000000000005,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0005000000000000004,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 5.000000000000002e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   },
+   "OTM>20%": {
+    "8-21d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3
+    },
+    ">21d": {
+     "half_spread": 0.0004999999999999987,
+     "snapshots": 3
+    },
+    "<1d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    },
+    "1-3d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    },
+    "3-8d": {
+     "half_spread": 9.999999999999999e-05,
+     "snapshots": 3,
+     "filled_from_neighbour": true
+    }
+   }
+  }
+ }
+}

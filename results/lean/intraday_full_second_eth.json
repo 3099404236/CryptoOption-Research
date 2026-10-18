@@ -1,0 +1,38 @@
+[
+ {
+  "project": "DeribitIntraday",
+  "strategy": "BUY_AND_HOLD",
+  "coin": "ETH",
+  "start": "2020-01-01",
+  "end": "2026-10-15",
+  "res": "second",
+  "seconds": 6407.2,
+  "ok": true,
+  "folder": "/mnt/quant_storage/quant_workspace/lean_workspace_v2/DeribitIntraday/backtests/2026-10-17_17-55-53",
+  "lean": {
+   "Net Profit": "1793.256%",
+   "Compounding Annual Return": "54.162%",
+   "Drawdown": "80.500%",
+   "Sharpe Ratio": "1.032",
+   "Probabilistic Sharpe Ratio": "25.016%",
+   "Total Fees": "$499.50",
+   "Total Orders": "1",
+   "Win Rate": "0%"
+  },
+  "summary_line": "SUMMARY mode=BUY_AND_HOLD coin=ETH {'cycles': 0, 'hedges': 0, 'signals': 0, 'skipped': {}, 'mm_fills': 0, 'arb_trades': 0, 'arb_locked_edge_usd': 0.0, 'stops': 0} fees=499.5 funding=0.0 settlements=0",
+  "errors_in_log": 0,
+  "metrics": {
+   "start_equity": 1000000.0,
+   "end_equity": 18932560.1052,
+   "total_return": 17.9325601052,
+   "years": 6.792607802874743,
+   "cagr": 0.541804496598167,
+   "ann_vol": 0.7653474475752512,
+   "sharpe_excess": 0.9124096484530615,
+   "max_drawdown": 0.7921519396091681,
+   "calmar": 0.6839653726852989,
+   "avg_risk_free": 0.028476591458501208,
+   "trading_days": 2482
+  }
+ }
+]
