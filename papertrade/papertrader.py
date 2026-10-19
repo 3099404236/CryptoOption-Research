@@ -1198,6 +1198,7 @@ const META = {
 };
 
 let S = null, RANGE = "all", HIDDEN = new Set(), LOADED = 0;
+const EXPAND = /[?&]expand=1/.test(location.search);
 const $ = s => document.querySelector(s);
 const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const ok = v => v !== null && v !== undefined && !Number.isNaN(v);
@@ -1398,7 +1399,7 @@ function renderAccounts() {
   $("#accts").innerHTML = html.join("");
   [...document.querySelectorAll("#accts .acct")].forEach((el, i) => {
     el.dataset.k = i === 0 ? "COMBO" : ORDER.filter(k => acc[k])[i - 1];
-    if (open.has(el.dataset.k)) el.querySelector("details").open = true;
+    if (EXPAND || open.has(el.dataset.k)) el.querySelector("details").open = true;
   });
 }
 
