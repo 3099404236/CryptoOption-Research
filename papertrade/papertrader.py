@@ -1317,7 +1317,7 @@ function drawChart() {
     g += `<line x1="${L}" x2="${W - R}" y1="${Y(v).toFixed(1)}" y2="${Y(v).toFixed(1)}" style="stroke:var(--line)" ${Math.abs(v) < 1e-9 ? 'stroke-width="1.6"' : ""}/>`;
     g += `<text x="${L - 8}" y="${(Y(v) + 4).toFixed(1)}" text-anchor="end" font-size="11" style="fill:var(--muted)">${(v > 0 ? "+" : "") + v.toFixed(dec)}%</text>`;
   }
-  const nx = W < 600 ? 3 : 6;
+  const nx = W < 600 ? 2 : 6;
   for (let j = 0; j <= nx; j++) {
     const t = T[i0] + (tEnd - T[i0]) * j / nx, x = X(t);
     g += `<text x="${x.toFixed(1)}" y="${H - 9}" text-anchor="${j === 0 ? "start" : j === nx ? "end" : "middle"}" font-size="11" style="fill:var(--muted)">${fmtBJ(new Date(t))}</text>`;
